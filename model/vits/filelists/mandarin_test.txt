@@ -1,0 +1,512 @@
+DUMMY2/006814.wav|r an2 h ou4 b a4 sh uo1 j iou4 sh iii4 w uo3 m ei2 zh eng1 y ian3|I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007379.wav|h ang2 ch eng2 d e5 q i4 w uen1 z uo2 r iii4 y i2 x ia4 z ii5 c uan1 sh eng1|I I I I B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/004111.wav|z ai4 q ing1 d ao3 b u4 f en5 r u2 q i3 y in1 j ian3 c e4 y ian2 g e2 e2 rr t ing2 ch an3|B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 B1 B1 I I I I
+DUMMY2/000061.wav|m an4 s a4 n i2 y ve1 g ang2 k ou3 b ei4 g uan1 b i4|I I B1 B1 I I B1 B1 I I B2 B2 B1 B1 I I I I
+DUMMY2/005327.wav|n a4 n in2 n eng2 t an2 y i2 x ia4 p u3 t ong1 l ao2 b ai3 x ing4 r u2 h e2 z uo4 h ao3 f ang2 t ai2 d e5 zh uen3 b ei4 m a5|B2 B2 I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I I I
+DUMMY2/002209.wav|t a1 h ao2 b u2 t uei4 s uo1 n iou3 zh u4 y i2 g e5 d ai3 t u2 d e5 sh uang1 w uan4|B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/000099.wav|an1 q van2 t ao4 z uo4 ch eng2 w u1 d u2 w ua2 w ua5 y iang4 z ii5|I I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007035.wav|b u4 j in3 r u2 c ii3 w uai4 z ii1 y in2 h ang2 d uei4 b ing4 g ou4 d e5 w uei4 k ou3 y ie2 h en3 d a4|I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 B1 B1 I I I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/005365.wav|zh ong2 zh ong3 d e5 sh iii4 j ian4 y in2 q i2 g ang3 r en2 b u4 m an3|I I I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009596.wav|b ing1 d ao3 g eng4 sh iii4 zh ou4 y ie4 n an2 b ian4 f ang3 f u2 j in4 r u4 h e2 d ong1 t ian1|I I B2 B2 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/004645.wav|y v2 sh iii4 t a1 t a4 sh ang4 x vn2 m u3 zh iii1 l u4|I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/000185.wav|y iang2 h ong2 q van2 sh iii4 t ian2 b a4 zh en4 w ua1 h ang1 c uen1 c uen1 m in2|I I I I B2 B2 B1 B1 I I I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/009687.wav|t a1 m en5 n eng2 z ai4 j iang1 sh uei3 h e2 h ai2 sh uei3 zh ong1 sh eng1 c uen2 b ing4 q ie3 ch eng2 sh u2 h ou4 h uei2 y iou2 d ao4 ch an2 l uan3 d i4 ch an2 l uan3|I I B1 B1 I I B1 B1 I I B2 B2 B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/007618.wav|x ing2 x iang4 d e5 sh uo1 j iou4 sh iii4 y in2 ch iii1 m ao3 l iang2|I I I I B1 B1 B3 B3 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/000827.wav|r an2 h ou4 y iao4 y i3 sh iii4 sh iii2 w uei2 y i1 j v4 b u4 r an2 y ve4 ch ao3 y ve4 l i4 h ai4|I I B2 B2 I I B2 B2 I I B1 B1 B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/008013.wav|y v3 x iang2 k u3 x iao4 sh uo1 n i2 x ie3 d e5 g an4 m a2 r ang4 w uo3 k an4|I I B2 B2 I I I I B3 B3 I I I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/000580.wav|t ing1 w uen2 ch ong2 q ing4 r en2 y iao2 g ou3 y i2 k an4 l ei2 g e1 sh ou4 y van1 q v1|I I B2 B2 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/008719.wav|w uei4 sh en2 m e5 y iao4 zh ei4 y iang4 h ei1 z ii4 j i3|I I I I B1 B1 B1 B1 I I B1 B1 B1 B1 I I I I
+DUMMY2/003667.wav|l ao3 r en2 s ao2 q i3 j ie1 l ai2 y i4 s ii1 b u4 g ou3|I I B1 B1 I I B1 B1 I I B2 B2 I I I I I I I I
+DUMMY2/002591.wav|zh iii2 j van3 g ai4 n ian4 sh iii4 r u2 h e2 ch u1 l u2 d e5|I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I I I
+DUMMY2/002656.wav|j ing1 ch ang2 z ai4 j ia1 l i3 l uan4 h ou3 y i4 t ong1|I I B1 B1 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004973.wav|d ong1 b ei2 w uang3 j iang1 ch iii2 x v4 g uan1 zh u4 m u4 l eng2 h e2 l iou2 y v4 w u1 r an3 w uen4 t i2|I I I I B2 B2 B1 B1 I I B1 B1 I I B2 B2 I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/005698.wav|x ia4 y i2 j v4 n an2 d ao4 sh iii4 x iao3 j i1 d uen4 m o2 g u5|I I I I B2 B2 I I I I B3 B3 I I B1 B1 I I I I I I
+DUMMY2/007332.wav|z ai4 g uo2 b an3 d e5 l iang3 b ian1 y iou3 y i4 x ie1 ao1 c ao2 y iong4 y i2 q ia3 zh u4 j i3 k uai4 g uo2 b an3 y i3 b ian4 y v2 l ian2 j ie1|B1 B1 I I I I B1 B1 I I B3 B3 I I I I B1 B1 I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/008345.wav|w uo3 y iao4 x ve2 x i2 y i2 x ia4 x iang1 g uan1 zh iii1 sh iii5|I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/003341.wav|y ing4 ch ou5 sh ao3 l e5 f a1 y ian2 d uan3 l e5|I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/008541.wav|j v4 d a4 d e5 l ei2 m ing2 sh eng1 y i2 l ang4 l ang4 d e5 g uen3 l ai2 d a4 d i4 q ing1 ch an4|I I I I B1 B1 I I I I B2 B2 I I I I I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/009156.wav|t a1 sh e3 b u4 d e2 h ua1 y i4 f en1 q ian2 d ou1 b a3 q ian2 z an2 q i3 l ai2 g ei2 m u3 q in1 zh iii4 b ing4|B1 B1 I I I I B1 B1 B1 B1 I I I I B3 B3 I I I I B2 B2 I I I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/006792.wav|p i2 zh en3 w u2 sh uei3 p ao4 b ing4 r en2 w u2 f a1 r e4 k e2 s ou5 d eng3 q i2 t a1 zh eng4 zh uang4|I I B2 B2 I I I I B3 B3 I I B1 B1 B1 B1 I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/008966.wav|s uei1 z e2 r u2 c ii3 y ie3 y iao4 j ia1 y i3 g uei1 f an4 b u4 n eng2 r en4 y iou2 f an4 l an4 m iou4 zh ong3 l iou2 ch uan2|I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I B3 B3 I I I I I I I I
+DUMMY2/007828.wav|w u4 b i4 b u2 y iao4 k ao4 j in4 sh uei3 n i2 y v4 zh iii4 b an3 q iang2 m en2 zh u4 d eng2 d uo3 b i4|I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I
+DUMMY2/000316.wav|zh ong2 z ii3 p o1 q iao2 y i1 r an2 b ei4 sh uei3 m an4 g uo4|I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004826.wav|d an4 p ai1 sh e4 sh iii2 zh u2 y ian3 m en5 d ou1 x in1 j ing1 d an3 zh an4|B2 B2 I I I I B3 B3 I I I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/001152.wav|sh en1 t i3 f eng1 m an3 sh uang1 j iao2 d uan3 c u1 zh iii3 j ian1 y iou2 p u3|I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/000448.wav|y ian1 l iou3 h ua4 q iao2 f eng1 l ian2 c uei4 m u4 c en1 c ii1 sh iii2 w uan4 r en2 j ia1|I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/000993.wav|c eng2 ch u1 y ian3 d ian4 y ing3 z uo4 p in3 d ing3 zh en1 h e2 l iou4 y ve4 l i2 h ao3 y iang2 g uang1|B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B3 B3 B1 B1 I I I I B2 B2 I I I I I I
+DUMMY2/005950.wav|j ing1 sh en2 zh ang4 ai4 h uan4 zh e3 c an1 j ia1 l ao2 d ong4 y iou3 q van2 h uo4 d e2 x iang1 y ing4 d e5 b ao4 ch ou2|I I B1 B1 I I B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/005256.wav|w uo3 x ian4 z ai4 e3 rr d uo5 l i3 h ai2 l ao3 j ve2 d e5 x iang3 zh e5 n a4 g e5 sh eng1 y in1|B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001242.wav|g ao4 b ie2 b ei3 ch uan1 h uang2 h uen1 zh ong1 w uo3 m en5 y iou4 d eng1 sh ang4 l e5 g ao1 sh an1 zh iii1 d ian1 d e5 q iang1 zh ai4|I I B1 B1 I I B3 B3 I I I I B3 B3 I I B1 B1 B1 B1 I I I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/002686.wav|r ong2 r u2 y v3 g ong4 x ian3 d an1 x in1 g an1 d an3 x iang1 zh ao4 x ie3 h uei1 h uang2|I I I I I I B2 B2 I I I I B3 B3 I I I I I I B2 B2 I I I I I I
+DUMMY2/008688.wav|en1 j ia1 y iou2 b a5 y i4 q i3|B3 I I I I B1 B1 I I I I
+DUMMY2/000708.wav|sh iii2 r en4 y van4 zh ang3 y ian2 w uen2 q ing1 x ian4 r en4 h u2 b ei3 d i4 e4 rr sh iii1 y van4 d ang2 w uei3 sh u1 j i5|I I B1 B1 I I B2 B2 I I I I B3 B3 I I B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/001049.wav|j i4 zh e3 d ang1 ch ang3 ch uo1 p o4 j ia3 y iang2 f ei2 d e5 h uang2 d i4 x in1 zh uang1 z ao1 d ao4 d ian4 zh u3 e4 y v3 q v1 zh u2|I I B2 B2 I I B1 B1 I I B2 B2 I I I I I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I B1 B1 I I I I
+DUMMY2/005983.wav|b ai2 t ian1 t a1 r eng2 zh uang1 ch u1 y i2 f u4 k ong3 j v4 d e5 y iang4 z ii5 zh eng3 t ian1 d uo3 z ai4 d ong4 k ou2 sh ou3 w uang4 zh e5|I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/000246.wav|y vn2 y iang2 x ian4 p an2 l ong2 zh en4 s ii4 m in2 c uen1 f a1 zh an3 zh uang4 d a4 y ing1 t ao2 ch an3 y ie4 zh u4 n ong2 z eng1 sh ou1|I I I I B2 B2 I I I I B2 B2 I I I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/001232.wav|g e1 m en5 rr d e5 q ing2 h uai2 d ang1 r an2 y iao4 k ao4 g e1 m en5 rr l ai2 y ian3 y i4 l e5|I I I I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 B1 B1 B1 I I I I I I
+DUMMY2/008672.wav|sh a1 h e2 sh iii4 d a1 l ian2 c uen1 x iang4 m u4 x ian4 ch ang3|I I I I B2 B2 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/007126.wav|x iao3 l an2 j ie1 g uo4 y in3 l iao4 l ie3 zh e5 z uei3 b a5 x iao4 l e5|I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007387.wav|g an3 j ve2 x iang4 sh iii4 y i3 sh en1 x iang1 x v3 l e5|I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/009409.wav|m ing2 z uei3 y v3 y iang1 sh iii4 d e5 q i2 l u4 ch iii2 z ao3 h uei4 b ao4 l u4 ch u1 l ai5|I I B2 B2 B1 B1 I I I I B1 B1 I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/000412.wav|b u4 d ong2 f a3 a5 sh ou4 g ao1 e2 l i4 x i1 y iou4 h uo4|I I B1 B1 I I B3 B1 B1 I I B1 I I B1 B1 I I I I
+DUMMY2/007356.wav|j ing1 t u1 sh en3 f an4 z uei4 x ian2 y i2 r en2 l iou2 y ing2 e2 rr j iao1 d ai4 l e5 f an4 z uei4 sh iii4 sh iii2 h e2 zh u3 y iao4 f an4 z uei4 d ong4 j i1|B1 B1 I I B3 B3 I I B1 B1 I I I I B2 B2 I I I I B2 B2 I I I I B1 B1 I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001286.wav|m iao4 m ou3 zh iii1 z ii3 l u4 j ian4 b o1 h uei2 j ia1 j ian4 zh uang4 ch iii2 d ao1 j iang1 z ang1 ch uo1 sh ang1|I I B1 B1 I I B2 B2 I I I I B3 B3 I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/002514.wav|d a4 d uo1 sh u4 g ong1 x in1 j ie1 c eng2 k ong3 p a4 zh iii3 n eng2 ou2 e3 rr ch ang2 ch ang2 d ao1 y v2 h uen2 t uen5 d e5 z ii1 w uei4|I I I I B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/008027.wav|w u2 p ei4 y v4 sh uo1 y iou3 r en2 w uen4 w u2 m eng4 ch ao1 sh en1 t i3 n a4 m e5 h ao3 sh iii4 b u2 sh iii4 ch iii1 sh en2 m e5 b u2 p in3 a5|I I I I B1 B1 B3 B3 I I I I B3 B3 I I I I B1 B1 I I B1 B1 I I I I B3 B3 I I I I B2 B2 B1 B1 I I B1 B1 I I I I I
+DUMMY2/003506.wav|w uang4 b u4 l iao3 sh u1 sh u5 a1 y i2 n a4 b ie1 b u5 zh u4 d e5 b iao3 q ing2|I I I I B2 B2 I I B1 B1 I B2 B2 B1 B1 I I I I I I B1 B1 I I I I
+DUMMY2/000493.wav|y in1 ch en2 d e5 t ian1 k ong1 p iao1 s a2 q i3 m ao2 m ao5 x i4 y v3 s ii4 h u1 zh iii1 x iao2 c ii3 k e4 j v3 g uo2 t ong2 ai1|I I I I B1 B1 I I B2 B2 I I I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I
+DUMMY2/000034.wav|ch eng2 y in1 t iao1 x van2 w uo2 y ian3 zh ao4 y v4 m in3|I I B2 B2 I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/004127.wav|z uo3 l i4 r ong2 t ing1 d ao4 w uang1 sh a1 y i4 f an1 k ai1 d ao3 h ou4 x iao4 d e5 h e2 b u4 l ong2 z uei3|I I I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I I I I I
+DUMMY2/009577.wav|s uo2 l i3 d e5 r en2 z ii4 b ei1 w u3 g ong1 b u4 j i2 f o2 sh an1 f ei1 h ong2 b ang1 d a4 b u4 l iao3 g uan1 j i3 t ian1 j iou4 f ang4 l e5 ch u1 q v4|I I I I I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I I I B1 B1 B1 B1 I I B1 B1 I I I I
+DUMMY2/002673.wav|j ing3 f ang1 ch eng1 g ai1 zh en2 s uo3 w u2 h e2 f a3 z ii1 zh iii4|I I I I B3 B3 I I I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/000764.wav|sh e4 b ao2 k a3 z e2 k e2 y i3 t i4 d ai4 j iou4 zh en2 k a3 sh iii2 x ian4 j iou4 y i1 y i4 k a3 t ong1|I I I I B2 B2 B1 B1 I I B1 B1 I I B2 B2 I I I I B3 B3 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/006606.wav|sh iii1 t i3 j ing1 y v3 y i1 b ao1 g uo3 d ian4 x ian4 k uen3 zh a1 b ei4 b ao4 d ao4 l e5 h uang2 x v2 g en1 d e5 m o2 t uo1 ch e1 h ou4 z uo4|I I B2 B2 B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 B1 B1 I I I I B1 B1 I I I I I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/004819.wav|h uo2 x ian2 d eng3 j i2 ch u4 d ing3 m ang2 h uai4 l e5 b en3 sh iii4 d e5 h u4 l in2 r en2 y van2|I I B1 B1 I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009411.wav|s an1 r en2 x ia4 b an1 h ou4 d ou1 y v3 m ai4 k e4 b u4 l ai4 d e2 t ong1 d uan3 x in4|I I B1 B1 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I I I
+DUMMY2/004096.wav|zh e4 g e5 g e1 d a5 y ia1 d e5 w uo2 ch uan3 b u2 g uo4 q i4 l ai2|I I B1 B1 I I B2 B2 I I I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/003163.wav|g ao1 w uen1 r ang4 y iong3 ch iii2 ch eng2 l e5 sh iii4 m in2 w uei2 sh u4 b u4 d uo1 k e2 y i3 s a1 h uan1 rr d e5 d i4 f ang5|I I B2 B2 I I I I B2 B2 I I B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I I B1 B1 I I I I
+DUMMY2/004455.wav|m in2 zh ong4 z ai4 p ing2 r ang3 j ie1 t ou2 k u1 s ong4 j in1 zh eng4 r iii4|I I B2 B2 B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/002917.wav|h ou4 l ai2 y ie4 g a2 y in1 w uei4 h e2 d uan4 m ou3 zh eng1 ch ao3 c ai2 t ao2 l e5 ch u5 l ai5|I I B3 B3 I I B2 B2 I I B1 B1 B1 B1 I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/001248.wav|t a1 h ai2 j iang1 w u3 m ing2 sh ang1 y van2 s ong4 w uang3 s ii4 y iao1 l iou4 y i1 y van4 j iou4 zh iii4|B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/000125.wav|y i1 c eng2 k e2 y i3 zh ong4 h ua1 h ua1 c ao2 c ao3|I I B2 B2 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/004535.wav|p an1 y iao4 m ing2 k an4 g uo4 ch a2 ch uan2 n e4 d e5 h ua4 j ve2 d e5 t a1 h ua4 d e5 h en2 y iou3 l ing2 q i4|I I I I B2 B2 I I B2 B2 I I I I I I I I B3 B3 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004694.wav|c ii3 w uai4 h ai2 k e3 t i2 q ian2 z uo4 j i4 h ao4 b i3 r u2 q ia1 d iao4 b u4 f en5 y v2 w uei2 d eng3|I I B2 B2 I I B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/001381.wav|l uo2 k e4 n u2 y ie3 q van4 t a1 x ia4 zh u4 d a4 y i4 d ian3|I I I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/003529.wav|g e2 l ei2 f u1 d e5 f u4 q in5 z ii1 w uei2 sh uo1 k an4 d ao4 e2 rr z ii5 g uan1 m u4 n a4 y i2 k e4 t a1 w uan2 q van2 b eng1 k uei4 l e5|I I I I I I B1 B1 I I B2 B2 I I I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I I I B3 B3 B1 B1 I I B1 B1 I I I I I I
+DUMMY2/008343.wav|x iao1 x i5 f a1 ch u1 h ou4 t ong2 x ve2 m en5 q vn2 q ing2 j i1 ang2 q van2 d ou1 b ao4 l e5 m ing2|I I B1 B1 I I I I B3 B3 I I I I B2 B2 I I B1 B1 I I B2 I I B1 B1 I I I I I I
+DUMMY2/008839.wav|y van2 l ai2 ch uang1 k ou3 h e2 p iao4 f an4 z ii5 l ang2 b ei4 w uei2 j ian1 d uo1 d e2 d e5 q ian2 p ing2 f en1|I I B3 B3 I I B2 B2 B1 B1 I I I I B2 B2 I I I I I I B3 B3 I I I I I I B1 B1 I I I I
+DUMMY2/002749.wav|y in1 c ii3 h e2 t ai4 h u2 y i2 y iang4 c uen2 z ai4 w u1 r an3 d e5 d ian1 ch iii2 b ei4 t ong2 y iang4 sh iii1 y i2 sh uei3 h u2 l u5 l iao2 f a3|I I B3 B3 B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/001477.wav|y i2 g uan4 y iou1 y ia3 d e5 y ing1 g uo2 r en2 ch ang2 w uei4 c ii3 m a4 m a5 l ie1 l ie1 y van4 y ian2 b u2 d uan4|I I B1 B1 I I I I B1 B1 I I I I B3 B3 I I I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/001396.wav|t ou2 t ai1 sh iii4 y i4 m en2 x ve2 w uen4 a5|I I B2 B2 I I I I B1 B1 I I I I I
+DUMMY2/007977.wav|y ian2 zh ong4 h an2 k e3 d e5 d ong4 t ing2 h u2 h u2 r ong2 j i2 h u2 m ian4 m ian4 j i5 y ie3 y iou2 s uo3 z eng1 j ia1|I I B1 B1 I I I I B1 B1 I I I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/003347.wav|y i4 ch ang3 b ao4 y v3 x i2 l ai2 sh uei3 l iou2 y ve4 l ai2 y ve4 t uan1 j i2|I I B2 B2 I I B1 B1 I I B3 B3 I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/005446.wav|g ai1 n an2 z ii3 b ei4 zh iii3 m i4 y vn2 x ian4 zh eng4 x ie2 w uei3 y van2 l i3 x in1 y iang2|I I I I B1 B1 I I B3 B3 I I I I B1 B1 I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/000512.wav|zh ao4 x ian4 h uai2 y iou4 j iang1 zh ao4 b ing2 z uo3 sh a1 s ii3 z ai4 m en2 k ou3|I I I I B3 B3 I I B1 B1 I I I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/006922.wav|j ie1 zh e5 j iang2 j ie3 y van2 y iou4 ch eng1 s ii4 m iao4 zh eng4 x iou1 sh an4 q ing3 l ai2 l e5 f eng1 sh uei3 d a4 sh iii1 k e2 m ian3 f ei4 j ie3 d a2|I I B3 B3 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/008935.wav|s uei1 r an2 z uo4 p in3 m ei2 y iou3 d a4 m ai4 y iou2 d ian3 y i2 h an4 d an4 m ei2 g uan1 x i5 l a5|I I B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 B1 B1 I I I I I I I I
+DUMMY2/000848.wav|w uo3 h uei4 w u3 sh u4 sh uei2 y ie2 d ang3 b u2 zh u4 y ia5|I I B1 B1 I I B2 B2 I I B1 B1 I I I I I I I I
+DUMMY2/009486.wav|sh ang4 ch e1 d e5 sh iii2 h ou4 g ua4 y i1 d ang2 q i3 b u4 k ao3 g uan1 t u1 r an2 l ai2 l e5 y i2 j v4 j ia1 y iou2|I I I I B1 B1 I I B2 B2 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I I I
+DUMMY2/006593.wav|sh eng1 h uo2 b u2 sh iii4 q ve1 sh ao2 m ei3 e2 rr sh iii4 q ve1 sh ao3 l e5 f a1 x ian4 m ei3 d e5 y ian3 j ing1 j ia1 y iou2 y iou5|I I B2 B2 I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I I I I I
+DUMMY2/007604.wav|t a1 d uei4 m ei3 d i4 r en4 sh iii5 ch u3 z ai4 m eng2 y ia2 j ie1 d uan4 b u4 b i2 m a3 d e2 b ao3 d e5 j ing1 sh en1|I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 I I I I I I B1 B1 I I I I
+DUMMY2/004614.wav|q van2 sh en1 q i2 ch ou4 w u2 b i3 s an4 f a1 ch u1 sh iii1 t i3 ch ou4 w uei4|I I B2 B2 I I B1 B1 I I B3 B3 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/000799.wav|d an4 sh iii4 w uang2 j vn1 n ing3 k ai1 w uo4 sh iii4 m en2 ch uang3 l e5 j in4 l ai2|I I B2 B2 I I B2 B2 I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/003260.wav|r uo4 c ii3 sh uo1 f a2 sh u3 sh iii2 z e2 q i2 y v2 s ii4 d uei4 z a1 d ao4 y ie3 j iang1 c uen2 z ai4 t ong2 y iang4 y in3 h uan4|B2 B2 I I I I B1 B1 I I B3 B3 B2 B2 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/000789.wav|w uo3 y iao2 j in3 y ia2 g uan1 b an4 n ian2 j in4 h u1 j ve2 sh iii2|B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/008446.wav|b u2 g uo4 m ian3 sh iii4 g ong1 d u2 y ian2 j iou1 sh eng1 d e5 t a1 z ao2 y i3 j ing1 b u4 j in2 j in2 m an3 z u2 y v2 k an4 ao4 y vn4 l e5|I I B3 B3 I I B1 B1 I I B1 B1 I I I I I I B1 B1 B3 B3 B1 B1 I I B2 B2 I I I I B1 B1 I I I I B1 B1 B1 B1 I I I I I
+DUMMY2/005624.wav|f a1 x ian4 w uo3 z ai4 t ou1 k an4 zh iii1 h ou4 t a1 l ian3 y i4 h ong2 ch en1 d ao4 k an4 sh en2 m e5 n e5|I I B2 B2 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B3 B3 B1 B1 I I I I I I
+DUMMY2/009188.wav|z ai4 x in1 n ian2 d e5 d i4 y i1 ch ang3 g ao1 k ao3 j iao4 l iang4 zh ong1 k ao3 sh eng1 j iang1 y ing2 l ai2 y i4 ch ang3 h an1 zh an4|B1 B1 I I I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I B3 B3 I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/006809.wav|s uo3 x ing4 j ing3 p en1 w uei4 z ao4 ch eng2 r en2 y van2 sh ang1 w uang2|I I B3 B3 I I B3 B3 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/002368.wav|d an4 y iou2 y v2 zh ong2 zh ong3 y van2 y in1 zh e4 y i4 x iang2 f a3 w uei4 n eng2 sh iii2 sh iii1|B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/003106.wav|h uang2 y v4 l ing2 h an2 y ia3 l e5 h ou2 l ong5 j ve2 w uang4 d e5 t an1 z uo4 z ai4 d i4 sh ang5|I I I I B2 B2 I I I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/006110.wav|n i3 j iou4 b u2 p a4 t a1 l a1 x iang3 zh a4 y iao4 b ao1 m a5|I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I I I I I
+DUMMY2/009881.wav|l iang3 r en2 y i4 ch ang3 e4 d ou4 sh eng4 f u4 n an2 f en1 zh iii2 h ao2 b a3 m ao2 t ou2 d uei4 zh uen3 z ai4 d u2 y ing1 y v3 d e5 x ie4 j ing3 y van1 d ao4 n i3 n e5|I I B1 B1 I I B1 B1 I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I B2 B2 I I B1 B1 I I I I B1 B1 I I I I I I B3 B3 I I I I
+DUMMY2/006612.wav|b i2 k ong2 l i3 l iou2 ch u1 l e5 x ian1 x ve4 t a1 g an2 j in3 x ia4 l e5 l ou2|I I I I B2 B2 I I I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I I I
+DUMMY2/008298.wav|b ing4 y iou3 m en2 sh uo1 t a1 m en5 ch u1 q v4 sh ua3 l e5|I I I I B1 B1 B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009609.wav|c ii3 c ii4 s uei1 r an2 z ii1 j in1 b u4 d uo1 d an4 d uei4 y v2 z ai4 j ian4 x iang4 m u4 r eng2 r an2 h en3 j ie2 k e3|I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/007719.wav|t a1 n ian2 q ing1 sh iii2 c eng2 j iou4 d u2 y v2 j iang1 s u1 sh eng3 m ou2 t i3 x iao4 s an2 d a3 d uei4 y van2|B1 B1 I I I I B3 B3 B1 B1 I I I I B1 B1 I I I I B1 B1 B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/007506.wav|z uo4 l e5 y i2 y ie4 m eng4 sh en1 b ian1 r en2 d ou1 b ian4 ch eng2 l e5 j iang1 sh iii1 y i4 z ao3 sh ang5 f a1 x iao1 x i5 g ei3 n an2 y iou3 q iou2 an1 w uei4|I I B1 B1 I I I I B3 B3 I I I I B2 B2 B2 B2 I I I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I B2 B2 B1 B1 I I B2 B2 I I I I I
+DUMMY2/000051.wav|n an4 x iong1 n an4 d i4 y iao4 h ao2 h ao3 q ie1 c uo1 q ie1 c uo1|I I B1 B1 I I B2 B2 B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/004435.wav|z ai4 d ian1 b o3 zh ong1 s uen1 x iao2 j ie3 j ian4 j ian4 j in4 r u4 m eng4 x iang1|B1 B1 I I I I B3 B3 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007333.wav|z uo2 r iii4 x ing1 sh a1 sh uei3 d u4 h e2 x iang4 j iao1 b a4 sh uei3 b a4 x ia4 m ian5 b o1 t ao1 g uen2 g uen3|I I B3 B3 I I B1 B1 I I I I B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001919.wav|j ing1 j i4 r en2 h uo4 w uen4 x i1 y ie3 f a1 w uei1 b o2 d uei4 ch uan2 w uen2 y iou4 b iao3 sh iii4 f en4 n u4 ch eng1 t ai4 g uo4 h uang1 m iou4|I I I I B2 B2 I I I I B2 B2 I I B1 B1 I I B2 B2 B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I B3 B3 B2 B2 I I B1 B1 I I I I
+DUMMY2/009349.wav|zh e4 b ing4 b u2 sh iii4 p ai1 n ao3 d ai5 z uo4 ch u1 d e5 j ve2 d ing4|B1 B1 I I I I B1 B1 I I I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/009026.wav|y iou3 x ie1 j ia1 r u4 l e5 b ang4 b ang5 j vn1 j ian1 t iao3 zh u2 g an1 c ong2 sh iii4 h uo4 w u4 y vn4 s ong4|I I B2 B2 I I I I B1 B1 I I I I B3 B3 I I B1 B1 I I B2 B2 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/004462.wav|n a4 w uo3 j iou4 z ai4 f u4 j in4 zh uan4 zh uan5 b a5|I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/003996.wav|sh ua1 y ia2 x i2 l ian3 h ou4 t a1 k ai1 sh iii3 sh eng1 h uo2 ch ao3 c ai4|I I B1 B1 I I I I B3 B3 B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/000060.wav|s ao3 s ao5 g ei3 z uo4 d e5 y iou2 m ian4 w uo1 w uo5 h e2 y iang2 r ou4 d uen4 sh an1 y iao4|I I B2 B2 I I I I B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I I I
+DUMMY2/002255.wav|w ua1 y iou3 l in2 y iou4 k an4 j ian4 n i3|I I I I B2 B2 B1 B1 I I I I I I
+DUMMY2/004527.wav|c ong2 q ian2 y iou3 z uo4 sh an1 sh an1 l i2 y iou3 z uo4 m iao4 n i3 c ai1 m iao4 l i2 y iou3 g e5 sh a2|I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/006590.wav|sh iii4 sh iii2 zh eng4 m ing2 w uang2 ch ang2 t ian2 zh e4 zh ong2 y i3 f a1 x ing2 y ing2 x iao1 q ie1 r u4 y ie3 sh iii4 x iang1 d ang1 t ao2 q iao3 d e5|I I B1 B1 I I B3 B3 I I I I B2 B2 I I B1 B1 B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/003208.wav|y ian1 zh ao4 d u1 sh iii4 b ao4 sh ang4 k an1 f a1 d e5 y ian2 p ei4 d ong1 j iou4 sh iii4 w uo3|I I B2 B2 I I I I I I B2 B2 I I I I B1 B1 I I I I B2 B2 I I I I I I
+DUMMY2/008140.wav|t a1 sh uo1 b u4 ch u1 h ua4 y iao2 sh u1 q in2 zh uei1 j i1 sh uo1 l in2 d a4 w uen2 h ao2 n i3 x ia4 y i2 g e5 zh uen3 b ei4 y iao4 m a4 sh uei2|B1 B1 I I I I B1 B1 B3 B3 I I I I B2 B2 I I I I B3 B3 B1 B1 I I I I B3 B3 B1 B1 I I I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/009772.wav|z uei4 h ou4 sh iii2 z ai4 ao3 b u2 g uo4 t a1 t ing2 t ing5 h e2 h ai3 z ou3 j in4 l e5 b in1 g uan3|I I B1 B1 I I B1 B1 I I I B1 B1 B3 B3 I I B1 B1 I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/004984.wav|x iang3 j iao1 g ao1 y v2 b ao3 h u4 j ia4 d e5 d ing4 g ou4 l iang2 m a5|I I B2 B2 I I B1 B1 I I I I I I B1 B1 I I I I I I I I
+DUMMY2/008913.wav|l ao3 n iang2 ch ou2 ch ou5 w uo3 sh uo1 w uo3 j ve2 d e5 y ie3 k an4 b u2 sh ang4 zh e4 sh iii4 rr j iou4 s uan4 l e5 b a5|I I B2 B2 I I B1 B1 I I B3 B3 I I I I B1 B1 B1 B1 I I I I B3 B3 I I B2 B2 B2 I I I I I I I I
+DUMMY2/006914.wav|zh e4 sh iii4 n an2 ch ao2 x ian3 k uei2 l ei3 j vn1 f ang1 h ao4 zh an4 k uang2 c ai2 n eng2 sh ang4 y ian3 d e5 m ao4 x ian3 d e5 j vn1 sh iii4 t iao3 x in4|I I B2 B2 I I I I B1 B1 I I B1 B1 I I B3 B3 I I I I B2 B2 I I B1 B1 I I I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/008198.wav|n i3 j ian4 g uo4 n a3 zh iii1 m u3 j i1 d a3 j ia4 y iong4 j i1 d an4 d e5|B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 B1 B1 I I I I I I
+DUMMY2/005108.wav|d uei4 c ii3 l iou2 l uan2 x iong2 c eng2 q ing3 q iou2 ao4 m en2 f a3 y van4 b o2 h uei2 zh iii3 k ong4 d an4 z ao1 d ao4 j v4 j ve2|I I B3 B3 I I I I B2 B2 B1 B1 I I B1 B1 I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/009746.wav|e2 rr q ie3 t a1 k e2 y i3 zh eng4 ch ang2 x ing2 z ou3 j iou4 sh iii4 y iou2 d ian2 b o3|I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I I I I I
+DUMMY2/004437.wav|s uo2 y iou3 d e5 t ing2 ch e1 ch ang3 d ou1 z ai4 z uei4 j ia1 w uei4 zh iii4 an1 p ai2 y iou3 zh uan1 g ong4 c an2 j i5 r en2 sh iii3 y iong4 d e5 ch e1 w uei4|I I I I B1 B1 I I I I B2 B2 I I B2 B2 I I B1 B1 I I B2 B2 I I I B2 B2 I I B2 B2 I I I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/003773.wav|z ai4 k an4 j ian4 n i3 y iao4 f an4 j iou4 z ou4 b ian2 n i3|B1 B1 I I I I B1 B1 I I B2 B2 B1 B1 I I I I I I
+DUMMY2/002355.wav|sh uei2 y van4 y i4 b a3 t a1 q ing3 ch u1 l ai5 d uo1 r e3 m a2 f an5|B1 B1 I I B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I
+DUMMY2/000199.wav|t a1 n ie4 sh ou3 n ie4 j iao3 j in4 l e5 w u1 l iou1 j in4 w uo4 sh iii4|B1 B1 I I B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I
+DUMMY2/001860.wav|d i4 e4 rr zh uo1 d e5 y i4 t i2 sh iii4 d u2 h ong2 l ou2 m eng4 d e5 r en4 sh iii5 y v3 g an2 x iang3|I I I I I I B1 B1 I I B2 B2 I I B2 B2 I I I I I I B1 B1 I I B2 B2 B1 B1 I I I I
+DUMMY2/007451.wav|sh iii4 y iong4 zh e2 x van3 z e2 l e5 k a1 f ei1 h uen4 h e2 q iao3 k e4 l i4 d ou4 d e5 k ou3 w uei4 w uei4 d ao4 h ao3 j i2 l e5|I I I I B2 B2 I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I I I I I
+DUMMY2/008119.wav|d uei4 c ii3 w uei4 h ou4 k ai2 g ei3 ch u1 l e5 j ian3 sh uei4 h e2 t i2 j ia4 l iang3 f u4 y iao4 j i4|I I B3 B3 I I I I B2 B2 I I I I B1 B1 I I B2 B2 B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/005653.wav|d eng2 w uo2 n a3 t ian1 x in1 q ing2 h ao3 z ai4 sh uo1 b a5|I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I I I
+DUMMY2/002091.wav|y ie3 j iou4 sh iii4 sh uo1 g ua1 z ii3 r u2 g uo3 b u2 c uei4 h uo4 zh e2 y iou3 h a1 l a5 w uei4 j vn1 b ei4 sh iii4 w uei2 b u4 h e2 g e2 p in3|I I I I I I B3 B3 I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 B1 B1 I I I I B3 B3 I I B1 B1 I I B2 B2 I I I I I I I I
+DUMMY2/002389.wav|ch eng2 b ao1 n a4 x ie1 l u4 zh e5 sh iii2 t ou5 d e5 sh an1 p o1 y iou3 sh a2 x iao4 y i4|I I B1 B1 I I B2 B2 I I B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/003934.wav|zh e4 x ie1 y ian2 l uen4 z ii4 y iou2 d e5 l an4 y iong4 zh iii2 j ie1 z ao4 ch eng2 w uang3 sh ang4 x in4 x i1 l iang2 y iou3 b u4 q i2 zh en1 j ia3 n an2 b ian4|I I B1 B1 I I B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 I I I I I I B3 B3 I I B1 B1 I I I I
+DUMMY2/006730.wav|y i4 m i3 l iou4 w u3 m ei2 r ang4 n i3 sh iii1 w uang4 b a5|I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I I I
+DUMMY2/001916.wav|y ian1 h uo3 sh ou3 x ian1 c ong2 ch uan2 c ang1 j ia2 b an3 sh ang4 m ao4 ch u1|I I B2 B2 I I B1 B1 B2 B2 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/002556.wav|zh iii4 b ei3 e4 rr h uan2 y i2 b ei3 zh iii2 zh iii4 ch an3 b a4 y i2 d ai4 d e5 d a4 p ian4 q v1 y v4 g ong1 q i4 zh ong1 d uan4|B2 B2 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/008531.wav|k e2 y i3 ch iii1 w uan3 j i1 t ang1 h uen2 t uen5 z ai4 ch iii1 y i2 g e4 sh uei2 zh u3 j i1 d an4 y ing2 y iang3 y iou4 j ian4 k ang1|I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I I I I I
+DUMMY2/009809.wav|h uo3 c ong2 s an1 j iao3 x ing2 d e5 k u1 l ong5 k ai1 sh iii3 r an2 sh ao1|I I B1 B1 I I I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/002857.wav|zh e4 g e5 j iao4 x vn4 sh iii4 j i2 w uei2 c an3 t ong4 d e5|I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I I I
+DUMMY2/008920.wav|j i2 sh iii3 w uo3 m en5 z u3 sh ang4 zh iii1 d ao4 z u3 z ong1 sh iii4 c ao2 c ao1 y ie3 b u2 h uei4 g ong1 k ai1 d uei4 w uo3 m en5 sh uo1|I I B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 I I B2 B2 B1 B1 I I B3 B3 I I I I B1 B1 I I B1 B1 B1 B1 I I I I I I
+DUMMY2/004395.wav|e4 rr sh iii4 x i2 g uan4 d ang1 sh uai2 sh ou2 zh ang3 g uei4 z uo4 e4 rr ch uan2 sh ou3 c eng2 c eng2 p i1 zh uan3 z uo4 e2 rr l uen4 d ao4 b u2 g an4 sh iii2 sh iii4|I I B1 B1 I I I I B2 B2 I I B1 B1 I I B3 B3 B1 B1 I I I I B3 B3 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/005676.wav|ch en4 c ii3 j i1 h uei4 m ei3 r iii4 d ian4 x vn4 b ao4 p an2 d ian3 l e5 ch u1 g uo4 l ei4 s ii4 q iou3 sh iii4 d e5 l ing2 d ao3 r en2|I I B1 B1 I I B3 B3 I I B1 B1 I I I I B2 B2 I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I I I
+DUMMY2/007289.wav|c ai4 m ei3 e2 rr y ie3 z ai4 s ii1 k ao3 zh e5|I I I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/005215.wav|j v4 sh uo1 sh iii4 y iou2 b ai2 j ing4 m u3 q in1 h uo4 l ao3 l ao5 j v1 zh u4|I I B2 B2 I I B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/006961.wav|y iou2 y v2 q ian2 w uang3 w uen4 ch uan1 d e5 d ao4 l u4 b ei4 h ua2 p o1 d e5 sh an1 t i2 z u3 d uan4 ch e1 d uei4 b ei4 z u3 y v2 z ii3 p ing2 p u4|I I B2 B2 I I B1 B1 I I I I B1 B1 I I B2 B2 B1 B1 I I I I B1 B1 I I B1 B1 I I B3 B3 I I B3 B3 B1 B1 I I B1 B1 I I I I I I
+DUMMY2/002269.wav|n iou1 n iou5 y iou3 x iou1 x i5 r iii4 d e5|I I B2 B2 B1 B1 I I I I I I I I
+DUMMY2/000077.wav|ai3 c uo2 q iong2 b ie2 x ia1 k ua1|I I I B3 B3 I I I I I I
+DUMMY2/007382.wav|f u4 m u3 z uei2 l i3 d u1 n ang5 zh e5 s ii4 h u1 h ai2 x iang3 zh eng1 b ian4 zh e5 sh en2 m e5|I I B2 B2 I I B1 B1 I I I I B3 B3 I I B2 B2 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/004914.wav|b u2 c uo4 ai4 n ai3 sh iii4 ch ou1 x iang4 d e5 d ong1 x i5 y iao4 h uo2 j iou4 y iao4 ch iii1 y iou4 y iou3 ch iii1 y iou4 y iou3 ai4 r iii4 z ii5 c ai2 h uei4 j ing1 c ai3|I I B3 B3 B2 I I B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I B1 B1 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007048.wav|l iou2 zh iii4 m in3 x i1 w uang4 j van1 m ei4 y i4 r u2 sh eng1 q ian2 n eng2 d e2 d ao4 n ei4 x in1 d e5 p ing2 j ing4|I I I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/004959.wav|t ang1 w uen2 y van2 sh uo1 l u2 j vn4 q ing1 d ang1 sh iii2 g ong1 z uo4 h en3 j i1 j i2 e2 rr q ie2 h en3 h uei4 j i1 z an3 r en2 m ai4|I I I I B1 B1 B3 B3 I I I I B2 B2 I I B1 B1 I I B1 B1 B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007309.wav|w ua5 g u3 w uen2 y ie5 sh uo1 zh e5 sh en1 ch u1 sh ou3 sh uo1 n i2 h ao3 j iou2 y iang3 l e5|B3 B3 I I I I B3 B3 I I B1 B1 I I I I B1 B1 B3 B3 I I B3 B3 I I I I I I
+DUMMY2/004433.wav|b u2 g uo4 sh uo1 d ao4 sh uei2 sh iii4 z uei4 q iang2 d e5 d uei4 sh ou3 t e4 l u2 m u2 p u3 r en4 w uei2 h ai2 sh iii4 ao4 sh a1 l i4 w uen2|I I B2 B2 I I B2 B2 I I B1 B1 I I I I B1 B1 I I B3 B3 I I I I I I B1 B1 I I B3 B3 I I B1 B1 I I I I I I I
+DUMMY2/005354.wav|d ang4 w uan3 y i4 h uo3 r en2 j iang1 y van2 m ou3 k an2 s ii3 j ie1 t ou2|I I B3 B3 I I I I B1 B1 B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/000860.wav|c ii3 sh iii2 w uen1 x iou4 ch uen1 d a4 sh eng1 k u1 h an3 h u1 j iou4|I I B3 B3 I I I I B2 B2 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/004302.wav|zh e4 y iang4 l ao3 y ing1 h e2 y ie3 zh u1 y i3 j i2 t a1 m en5 d e5 h ai2 z ii5 d ou1 e4 s ii3 l e5|I I B2 B2 I I B2 B2 B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I B2 B2 B1 B1 I I I I I
+DUMMY2/004911.wav|m ai3 d e5 g u3 p iao4 y iou4 d ie1 t ing2 l e5 m ei2 y iou3 n a4 g e5 m ing4 a5|I I B1 B1 I I B2 B2 B2 B2 I I I I B3 B3 I I B1 B1 I I B1 B1 I I I
+DUMMY2/008376.wav|s uo2 y iou3 s eng1 r en2 d ou1 p ao3 l e5 ch u1 l ai2|I I B1 B1 I I B1 B1 B1 B1 I I B1 B1 I I I I
+DUMMY2/009696.wav|j i4 zh e3 f a1 x ian4 m ing2 n ian2 f ang4 j ia4 an1 p ai2 z ai4 z ong2 t i3 sh ang4 b u2 h uei4 ch u1 x ian4 z uei4 zh e1 t eng5 ch ang2 j ia4|I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I B1 B1 B1 B1 I I I I B2 B2 I I B1 B1 I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/008375.wav|w uo3 d ou2 d an3 c ai1 c e4 j i2 t uan2 g ei3 l u4 zh ao4 x i3 w u4 l iou2 g ei3 sh ao4 x iao3 f eng1|B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 B1 B1 I I I I B3 B3 I I B1 B1 B2 B2 I I I I I I
+DUMMY2/009241.wav|d a4 r en2 m en5 b u4 d ong2 w uo3 m en5 d e5 sh iii4 j ie4|I I I I B2 B2 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/008003.wav|zh a4 y ian3 y i2 k an4 x iang2 q i3 d e5 sh iii4 g uang3 zh ou1 d e5 q v1 h ao4 l ing2 e4 rr l ing2|I I B1 B1 I I B3 B3 I I I I B2 B2 B1 B1 I I I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/009558.wav|j in4 r u4 q i4 ch e1 sh iii2 d ai4 y i3 l ai2 r en2 m en5 s ii4 h u1 y i2 k e4 y ie3 l i2 b u4 k ai1 g uen2 g uen3 d e5 ch e1 l uen2|I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 B1 B1 I I I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/004311.wav|l ing4 w uai4 t ao2 h ua1 w uei2 d i1 ai3 zh iii2 w u4 zh iii1 y ia1 j iao4 d i1 y ie3 b u4 f ang1 b ian4 x ing2 r en2 ch uan1 x ing2|I I B2 B2 I I I I B1 B1 I I B1 I I B2 B2 I I B1 B1 I I B3 B3 B1 B1 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/002689.wav|ch u2 m eng3 n iou2 y i1 l i4 g uang1 m ing2 d eng3 d a4 p in3 p ai2 w uai4 g uang3 d ong1 b en2 t u3 r u2 p in3 y ie3 j ia1 r u4 zh ang3 j ia4 h ang2 l ie4|B2 B2 I I B1 B1 I I B2 B2 I I B2 B2 B1 B1 I I I I I I B3 B3 I I B2 B2 I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/008978.wav|r u2 h e2 g ou1 t ong1 z en3 m e5 g ou1 t ong1 j ian4 j ian4 ch eng2 w uei2 w uo3 m en5 r iii4 s ii1 y ie4 x iang3 d e5 zh u3 t i2|I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B2 B2 I I I I I I I I B1 B1 I I I I
+DUMMY2/000095.wav|sh eng3 j i2 w uen2 b ao3 d an1 w uei4 m an3 y van4 rr l iou1 d a5 j i1|I I B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 B2 I I I I I I
+DUMMY2/008080.wav|h ai2 y iao4 j iao4 t a1 q i3 ch uang2 n e5 z en3 m e5 h uei4 b u4 z ao2 q i3|I I B1 B1 I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I I I I I
+DUMMY2/009072.wav|z ai4 sh uo1 l e5 w uo2 b a2 sh ou3 j i1 h uan2 g ei2 n i3 w uo3 b u2 j iou4 sh iii4 z ii4 t ou2 l uo2 w uang3 w uo2 sh a3 y ia5|I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I B3 B3 B1 B1 I I I I B2 B2 I I I I I I B3 B3 I I I I I I
+DUMMY2/008761.wav|j i4 n ian4 g ong1 q ian2 g uang2 ch ang3 j v4 j i2 d a4 p i1 m in2 zh ong4|I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007270.wav|z uo2 r iii4 y ve4 b ing3 d a4 f u2 j iang4 j ia4|I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/006024.wav|f eng2 w uan4 h e2 d uei4 y iou3 j ve2 d ing4 j i4 x v4 j iang1 d ong4 k uo4 d a4|I I I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/006153.wav|b iao1 zh uen3 d e5 m ei3 sh ao4 n v3 y iang4 z ii5 y ia5|I I I I B2 B2 I I I I B1 B1 I I I I I I
+DUMMY2/004581.wav|x iao3 b ing4 b u2 y iong4 k ang2 d a4 b ing4 y iou2 b ao3 zh ang4|I I B2 B2 I I I I B3 B3 I I B2 B2 B1 B1 I I I I
+DUMMY2/008816.wav|zh ou1 y ie4 m ian4 f ang3 w uen4 l iang4 w uei2 w u2 d ian2 j iou3 l ing2 s an1 y i4 h uan2 b i3 x ia4 h ua2 b ai3 f en1 zh iii1 e4 rr d ian3 s ii4|B1 B1 I I B1 B1 I I I I B2 B2 B2 B2 I I B1 B1 I I I I I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 B1 B1 I I I I I I
+DUMMY2/000943.wav|t a1 p ang2 h uang2 p ai2 h uai2 g uo4 d an4 c ong2 w uei4 t uei2 f ei4 j ve2 w uang4 g uo4|B1 B1 I I B2 B2 I I I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/002549.wav|ch iii1 q iao3 k e4 l i4 y ia5 t ing1 sh uo1 h e2 x ia4 y v3 t ian1 g eng4 p ei4|B1 B1 I I I I I I B3 B3 I I B2 B2 B1 B1 I I I I B1 B1 I I I I
+DUMMY2/003432.wav|zh e4 sh ou3 sh iii1 d e5 m ing2 z ii4 j iao4 m in3 n ong2|I I I I I I B1 B1 I I B3 B3 B1 B1 I I I I
+DUMMY2/003031.wav|y iao4 sh iii4 t uei2 r uan3 l e5 d ou1 h uei4 z ai1 x ia4 l ai5|I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I I I
+DUMMY2/008706.wav|n i3 zh e4 sh iii4 b u2 ai4 w uo3 l e5|B1 B1 I I B2 B2 I I B1 I I I I
+DUMMY2/000335.wav|q van2 j v4 y i3 y iao2 z u2 t e4 y iou3 d e5 ch ang2 g u3 g uan4 ch uan1|I I B2 B2 B1 B1 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/008325.wav|x iao2 l ei3 z uo4 zh e5 z uei4 h ou4 d e5 zh eng1 zh a2 d an4 d eng1 ch uai4 d e5 sh uang1 j iao3 zh u2 j ian4 w u2 l i4 d uan4 l e5 q i4|I I B2 B2 I I B1 B1 I I I I B1 B1 I I B3 B3 B1 B1 I I I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I I I I I
+DUMMY2/006821.wav|zh ang1 z ii3 q iang2 h e2 y ie4 j i4 h uan1 d ou1 b u2 y iong4 d ao4 q ian4 w uo3 m en5 sh uei2 y iou3 z ii1 g e2 ch u1 l ai2 d ao4 q ian4 y ia5|I I I I B1 B1 B1 B1 I I I I B1 B1 B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/006635.wav|q iang2 sh ang4 g ao4 sh iii4 w uei4 n eng2 sh uo1 m ing2 m a2 t ong3 d e5 sh ang4 sh u4 h ua1 sh ao4 g ong1 n eng2 h uei4 x iao1 h ao4 d uo1 sh ao3 d ian4 l iang4|I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004292.wav|ch uang2 p u4 p ang2 b ian1 sh iii4 sh ou1 sh ou4 d e5 g e4 zh ong3 y iao4 p in3|I I B1 B1 I I B2 B2 B2 B2 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004794.wav|m ei2 x iang3 d ao4 h u3 z ii5 j i4 h en4 y v2 x in1|I I I I B1 B1 I I B3 B3 I I I I I I I I
+DUMMY2/006334.wav|h ao3 j in4 w uo4 sh iii4 l ai2 l ao3 n iang2 g ei2 n i2 zh uen3 b ei4 l e5 c uo1 y i1 b an3|B3 B3 B1 B1 I I I I B3 B3 I I B2 B2 I I B1 B1 I I I I B1 B1 I I I I I I
+DUMMY2/005626.wav|ch ang4 g e1 q i3 d iao4 t ai4 g ao1 r ong2 y i4 p o4 s ang3|I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/002928.wav|m eng4 j ing1 h uei1 h uei2 y i4 q i3 g uo1 t ao1 d e5 y i2 j ian4 q iou3 sh iii4|I I I I B2 B2 I I I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/000483.wav|sh ou4 x ing1 y iang2 q ian1 h ua4 j van1 ch u1 l iang3 q ian1 y van2 ch ou1 j iang3 sh ang4 t ai2 sh iii2 y i2 m ian4 ch iii1 t ian2 p in3 y i2 m ian4 ch ou1 j iang3|I I B2 B2 I I I I B3 B3 I I B1 B1 I I I I B1 B1 I I B3 B3 I I I I B3 B3 I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/007032.wav|zh e4 b u2 sh iii4 m ing2 x ian3 d e5 b u4 z uen1 sh ou3 w uai4 j iao1 x ie2 y i4 m a5|B1 B1 I I B2 B2 I I I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/006619.wav|t a1 m en5 d uei4 x ve2 x iao4 d e5 b ang3 y iang4 j iao4 y v4 p ing2 j ia4 r u2 h e2|I I B1 B1 B1 B1 I I I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/006145.wav|x ing2 d ong4 j ie2 sh u4 h ou4 b u4 d uei4 y iong4 t uei1 t u3 j i1 t uei1 d ao3 b ang2 f ei3 c ang2 sh en1 d e5 f ang2 w u1|I I B1 B1 I I I I B3 B3 I I B2 B2 B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/006407.wav|s uen1 j ia1 j iou4 x iang4 sh iii4 ai2 l e5 m en4 g uen4 y i4 sh iii2 h uan3 b u2 g uo4 sh en2 l ai2|I I B2 B2 I I I I B1 B1 I B1 B1 I I B3 B3 I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/004696.wav|s uei2 h ou4 j i4 zh e3 l ai2 d ao4 sh ao2 y iao4 j v1 zh an4 g ai1 zh an4 d e5 k e4 l iou2 y ie3 b u4 d uo1|I I B2 B2 I I B1 B1 I I B1 B1 I I I I I I B3 B3 I I I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/003092.wav|g an4 p o2 d a4 d i4 z ai4 c ii4 y ing2 l ai2 l e5 y v2 x ve3 j iao1 j ia1 d e5 h an2 l eng3 t ian1 q i4|I I B1 B1 I I B2 B2 I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/006694.wav|j ian4 q iang4 sh uei3 y ian2 zh ong4 t a1 m en5 w uei4 h uang2 t ian1 z uo4 l e5 r en2 g ong1 h u1 x i1|B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001913.wav|zh e4 y i4 t ian1 d i4 y i1 ch uang1 k ou3 d e5 g uei1 n v5 zh ang1 y v2 y iao4 ch u1 j ia4 l e5|I I I I B3 B3 I I B1 B1 I I I I B1 B1 I I B2 B2 I I B2 B2 B1 B1 I I I I I I
+DUMMY2/005714.wav|zh e4 j v4 s uei2 k ou2 b ian3 d i1 d e5 h ua4 w uai1 d a3 zh eng4 zh ao2 w u2 ch eng2 b ei4 g uo4 sh en1 y i2 x iao4 sh uo1 w uo3 h uei4 m a5|I I B2 B2 I I B1 B1 I I I I I I B2 B2 I I B1 B1 I I B3 B3 I I B2 B2 I I I I B2 B2 I I I I B3 B3 I I I I I I
+DUMMY2/001561.wav|z ao3 y i4 w uan3 w uo2 y i3 zh iii1 d ao4 t a1 m en5 h uei4 zh e4 y iang4 x ie2 w uo3 w uo3 zh iii2 y iou3 w u2 n ai4|I I I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 B1 B1 I I B2 B2 I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/002003.wav|j ia1 j ia1 k ai1 sh iii3 d a1 g uo1 z uo4 f an4 f ei4 x v1 sh ang4 sh eng1 q i3 n iao2 n iao3 ch uei1 y ian1|I I B2 B2 I I B2 B2 I I B1 B1 I I B3 B3 I I I I B2 B2 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/009234.wav|b u2 sh iii4 l ei4 l e5 b u2 sh iii4 g ou4 l e5 sh iii4 zh iii1 d ao4 f u4 m u2 y iou3 d uo1 b u4 r ong2 y i4 l e5|I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I I I I I I I
+DUMMY2/001013.wav|e4 y i4 s ao1 r ao3 sh iii3 d e2 d a4 l iang4 j i2 j iou4 z ii1 y van2 b ei4 zh an4 y iong4|I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 B1 B1 I I I I
+DUMMY2/008954.wav|sh uo1 d ao4 h ai1 sh iii2 zh ou1 w uei2 y i4 q vn2 n ian2 q ing1 b ai2 l ing3 f en1 f en1 l ou4 ch u1 sh iii2 h ua4 b iao3 q ing2|I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/002044.wav|z ao2 q i3 d e5 n iao3 e2 rr y iou3 ch ong2 ch iii1|I I I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/003568.wav|c uen1 m in2 j ie4 sh ao4 d a4 t u3 q iou1 j i2 h uang2 f en2 l iou2 b ei4 m u4|I I B1 B1 I I B3 B3 I I I I B2 B2 B1 B1 I I B2 B2 I I I I I I
+DUMMY2/009641.wav|d an4 y iou3 y v2 m in2 r en4 w uei2 j in4 q i1 sh uei3 h u2 l u5 d e5 y ing2 x iang2 y i3 b u2 d a4|I I B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 I I I I I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/006270.wav|t ong2 sh iii2 zh e4 y ie3 y i4 w uei4 zh e5 b i4 x v1 y iou3 z u2 g ou4 d e5 r en2 c ai2 ch u3 b ei4|I I B3 B3 I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004591.wav|s uei2 h ou4 q in2 y iang2 j in4 x ing2 x ian4 ch ang2 y ian3 sh iii4|I I B2 B2 I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007337.wav|an4 f an4 b ei4 t a1 d e5 l in3 r an2 zh eng4 q i4 zh en4 zh u4 l e5 r eng1 x ia4 g ai3 zh uei1 g uei4 z ai4 d i4 sh ang4 zh iii2 k e1 t ou2|I B2 B2 I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/008517.wav|j ie2 g uo2 zh iii3 sh iii4 n i3 d a4 f ang1 d e5 q ing3 d a2 r en2 sh ua2 sh ua3|I I B2 B2 I I I I B1 B1 I I I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/000381.wav|zh an3 t ing1 s e4 c ai3 y i3 h ei1 b ai2 h uei1 w uei2 zh u3 j v2 b u4 d ian3 zh uei4 n uan3 s e4|I I B1 B1 I I B2 B2 B1 B1 I I I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/006652.wav|n i3 s ii1 w uei2 h en3 h uo2 y ve4 z ong3 n eng2 c ong2 d uo1 sh iii4 j iao3 k an4 d ai4 sh iii4 w u4 c ong2 e2 rr j ie3 j ve2 y i4 x ie1 h en3 j i2 sh ou3 d e5 w uen4 t i5|B1 B1 I I B2 B2 I I I I B3 B3 I I I I B1 B1 I I I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 B1 B1 I I I I B1 B1 I I I I
+DUMMY2/002871.wav|t u2 w uei2 d iao4 ch a2 t uan2 ch uan2 zh iii1 r ao4 d ao3 h ang2 x ing2|I I B2 B2 I I I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/001857.wav|c ao2 x iao2 j ie3 f a1 x ian4 zh e4 k uan3 l ian2 k u4 w ua4 y v3 p ing2 ch ang2 d e5 s ii1 w ua4 x iang1 b i3 j iao4 y ing4 h en3 n an2 ch uan1 j in4|I I I I B1 B1 I I B3 B3 I I B1 B1 I I I I B3 B3 B1 B1 I I I I B1 B1 I I B1 B1 I I B2 B2 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/007650.wav|t ong2 sh iii2 s ong4 h ai2 sh e4 x ian2 m ai3 m ai4 r en2 k ou3|I I B3 B3 B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/003575.wav|zh u3 r en2 z ai4 d a2 s ao3 l ong2 sh e4 z ai3 z ai5 r e4 q ing2 d e5 y iong4 b i2 z ii5 g ong2 zh u3 r en2 d e5 t uei3|I I B2 B2 B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 I I I I B1 B1 B1 B1 I I B2 B2 B1 B1 I I I I I I I I
+DUMMY2/004161.wav|c ii3 an4 h ong1 d ong4 q van2 g uo2 g ong1 an1 b u4 g ua4 p ai2 d u1 b an4|I I B2 I I B1 B1 I I B3 B3 I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007774.wav|w uang2 f ei1 b u4 g uan3 x ian4 z ai4 h ai2 sh iii4 x iao3 sh iii2 h ou4 d ou1 h ao2 k e3 ai4 o5|I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/004169.wav|x in4 y iang2 sh iii4 f u4 y iou4 b ao3 j ian4 y van4 y van2 l ai2 zh iii2 y iou3 y i4 l iang3 g e5 r en2 z ai4 n a4 rr g uan2 l i3|I I I I B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I I I B2 B2 I I B1 B1 B1 I I I I
+DUMMY2/008695.wav|sh uei2 j iou4 y i4 x iao3 m ing2 x ing1 sh uei2|B2 B2 I I B1 B1 I I I I B1 B1 I I
+DUMMY2/005903.wav|l iou2 y v4 x iou4 zh ong1 d eng3 g e4 k an4 sh ang4 q v4 g an1 j ing4 l i4 s uo5|I I I I B2 B2 I I I I B3 B3 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/000836.wav|q van2 d ang3 b i4 x v1 j ing2 x ing2 q i3 l ai2|I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001870.wav|w uei2 y ian4 j in4 sh uei3 j iang1 y ing2 x iang3 y i3 sh iii4 q ia1 zh e5 f en1 m iao3 j i4 s uan4 d e5 g ong1 q i1|I I B1 B1 I I B3 B3 B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/004630.wav|d an4 d ang1 h uan4 zh e3 l i2 k ai1 y i1 y van4 h ou4 j iou4 x in1 j i1 g eng2 s ii3 z ai4 h uei2 l ai5 sh iii2 y i3 j ing1 w u2 y iao4 k e3 j iou4 l e5|I I B2 B2 I I B1 B1 I I B1 B1 I I I I B2 B2 B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I I I B3 B3 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/009884.wav|q ian2 w uei3 ch ang2 d uei4 y in3 sh iii2 c ong2 b u4 t iao1 t i4 j i4 b u4 ch ou1 y ian1 y ie3 b u4 h e1 j iou3 y in3 ch a2 y ie3 b u4 j iang3 j iou5|I I I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 B1 B1 I I I I B3 B3 I I B1 B1 B1 B1 I I I I I I
+DUMMY2/001987.wav|j ie1 x ia4 l ai2 zh ong1 g uo2 t ou2 z ii1 zh e3 k e3 n eng2 y iao4 c an1 y v4 g ou4 m ai3 p u2 t ao5 zh uang1 y van2 j iou3 zh uang1 h e2 n ong2 t ian2|I I I I B3 B3 I I B1 B1 I I I I B2 B2 I I B1 B1 B1 B1 I I B2 B2 I I B2 B2 I I B1 B1 I I B3 B3 I I B2 B2 B1 B1 I I I I
+DUMMY2/008218.wav|y iou2 y v2 l ie4 ch e1 zh ang3 sh iii2 j ian1 t ing2 k ao4 ch e1 x iang1 n ei4 d e5 k ong1 q i4 y ve4 l ai2 y ve4 m en1|I I B1 B1 I I B1 B1 I I I I B1 B1 I I B3 B3 I I I I I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/009306.wav|g ong1 s ii1 f u4 z e2 r en2 d e5 n ian2 d u4 x in1 ch ou2 z eng1 zh ang3 l v4 y ing1 d i1 y v2 g ong1 s ii1 x in1 ch ou2 z eng1 zh ang3 l v4|I I B1 B1 I I I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/001887.wav|zh ong4 w uang2 y iou3 f en1 f en1 zh iii1 ch iii2 zh eng4 y van1 j ie2 x iang4 g ong1 h ang2 t ao3 sh uo1 f a3|I I I I B2 B2 I I B1 B1 I I B2 B2 I I I I B2 B2 B1 B1 I I B2 B2 I I I I I I
+DUMMY2/007267.wav|j ie3 f ang4 j vn1 j iou4 q v4 j iou4 an3 m en2|I I I I B2 B2 I I B1 B1 I I I I I
+DUMMY2/003053.wav|t ian1 sh a1 d e5 sh ei2 b a2 w uo2 s ii3 l e5 z ang4 d e5 h ao3 h ao1 d e5 c ang1 sh u3 w ua1 ch u1 l ai2 x i3|I I I I B3 B3 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I B1 B1 I I B2 B2 I I I I I I I I
+DUMMY2/007924.wav|zh iii3 y iao4 n u3 l i4 j iou4 n eng2 y ia5|I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/008192.wav|t a1 d e5 zh e4 j v4 h ua4 y iou3 x in1 s uan1 y iou3 w u2 n ai4 y iou3 an1 w uei4|I I B1 B1 I I I I B3 B3 B1 B1 I I B3 B3 B1 B1 I I B3 B3 B1 B1 I I I
+DUMMY2/004268.wav|d ang1 sh iii2 j v3 s ang4 d e5 x in1 q ing2 w u2 y i3 x ing2 r ong2|I I B2 B2 I I I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/001974.wav|j v4 a1 zh a1 m an4 j iao1 d ai4 t a1 sh iii4 b ei4 q v3 d i4 d e5 b a1 j vn1 sh iii4 p ai4 b ie2 q ian2 ch eng2 j vn1 ch eng2 y van2|B1 B1 I I I B1 B1 I I B3 B3 I I B1 B1 B1 B1 I I I I B3 B3 I I I I B1 B1 I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/005608.wav|zh iii4 l iang4 b u2 d ao4 w uei4 n i3 s uei1 r an2 q iang3 zh an4 l e5 d i4 p an2 d an4 sh iii4 j iang1 l ai2 r en2 j ia1 zh ao4 y iang4 d a2 k ua2 n i3|I I B2 B2 I I I I B3 B3 B1 B1 I I B2 B2 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/007433.wav|w uang3 zh an4 g uan2 l i3 y van2 d e5 q van2 x ian4 g eng4 d a4 k e3 d uei4 p ing2 l uen4 j in4 x ing2 y iou3 x iao4 g uan2 l i3|I I B2 B2 I I I I I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004283.wav|y van2 g ao4 zh ang1 m i1 b en3 r en2 m ei2 y iou3 ch u1 t ing2 zh ang1 m i1 n v3 e2 rr l i3 l uo4 y i1 ch u1 x ian4 z ai4 t ing2 sh en3 x ian4 ch ang3|I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I I I B3 B3 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009939.wav|l in2 d a2 sh uo1 sh iii4 y v2 j ia1 g ai3 b ian4 l e5 t a1 h e2 m a3 e2 rr d e5 sh eng1 h uo2|I I I I B3 B3 B1 B1 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/007228.wav|d uei4 c ii3 t a1 x iao4 n a4 p in2 d ian2 h ao3 b u4 zh ang3 ch ong2 e5 rr|I I B2 B2 B1 B1 I I B3 B3 I I I I B3 B3 I I B1 B1 I I I I
+DUMMY2/002808.wav|zh ou1 r uei2 l iou3 l iao2 j ie3 d ao4 g u4 p eng2 t u2 y i4 x ing2 r u2 c ii3 j i2 ch e4 zh iii3 sh iii4 w uei4 l e5 g an3 zh e5 q v4 ch iii1 w u3 f an4|I I I I B1 B1 I I I I B3 B3 I I I I B2 B2 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004880.wav|z u3 zh iii1 zh e3 a1 l i3 ch eng2 r en4 sh uo1 zh e4 sh iii4 t a1 m en5 w u2 f a3 y ing4 d uei4 g a1 l i5 g uo4 l a4 d ao3 zh iii4 d e5 w uen4 t i2|I I I I B1 B1 I B1 B1 I I I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/002065.wav|z ai4 h ai2 z ii5 sh ang4 ch e1 h ou4 l i3 y ia4 p eng2 y ie3 c ong1 c ong1 b a3 y ian1 q ia1 m ie4 j i2 m ang2 l i2 q v4|B1 B1 I I B1 B1 I I I I B3 B3 I I I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/006235.wav|y ve4 l ai2 y ve4 d uo1 d e5 s eng1 r en2 z ai4 g uo2 w uai4 l iou2 x ve2 zh ong1 zh ang3 w uo4 sh u2 l ian4 d e5 w uai4 y v3 j i4 n eng2|I I B1 B1 I I I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/002668.wav|g ong1 zh ong4 r en2 w u4 g ai4 n ian4 d e5 q ve1 sh iii1 j iang1 x ian4 w uang3 m in2 y v2 b u2 y i4|I I B1 B1 I I B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/003524.wav|y iou3 x ie1 g uo2 j ia1 y ie3 j ia1 d ao4 sh u4 k ou2 sh uei3 y ia2 g ao1 l i3|I I B1 B1 I I B3 B3 I I I I B2 B2 I I I I B2 B2 I I I I I I
+DUMMY2/008623.wav|z ai4 n ei4 ch eng2 zh iii1 n ei4 d e5 n an2 b an4 b u4 h e2 x in1 ch u4 s ong3 l i4 zh e5 q in2 sh iii3 h uang2 l ing2 d e5 g ao1 d a4 f eng1 t u3|I I I I B1 B1 I I I I B1 B1 I I I I B3 B3 I I I I B2 B2 I I I I B1 B1 I I I I I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/002632.wav|zh e4 y ie3 sh iii4 p an4 d ing4 x i1 h u2 c u4 y v2 sh iii4 f ou3 zh eng4 z ong1 d e5 b iao1 zh uen3 zh iii1 y i1 o5|I I I I B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I I
+DUMMY2/000753.wav|x ia4 s ii4 y ve4 g uei3 s ii4 l iou2 b ei4 c u2 y v2 y iong3 an1 g ong1|B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I I I I
+DUMMY2/004852.wav|d an4 sh iii4 d ing1 k e3 e2 rr y i4 zh iii2 ch en2 m o4 d uei4 ch u1 z ou3 d e5 sh iii4 q ing5 zh iii1 z ii4 b u4 t i2|I I B2 B2 I I I I B2 B2 I I B1 B1 I I B3 B3 B1 B1 I I I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/002629.wav|y ian2 g e2 d e5 sh uo1 b u2 sh iii4 z ou3 e2 rr sh iii4 p an1 d eng1 e2 rr q v4 d e5|I I I I B1 B1 B3 B3 I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/005405.wav|w uo2 y ie2 x iang3 k uai4 d ian3 y iao1 s uan1 b ei4 t ong4 zh en1 d e5|I I B1 B1 B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004298.wav|d i4 e4 rr b u4 sh iii4 j ian3 q v4 k u4 j iao3 h ou4 ch ou1 ch u1 h eng2 x iang4 d e5 x ian4|I I I I B2 B2 B1 B1 I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I B1 B1 I I
+DUMMY2/004442.wav|d ing1 z ii3 g ao1 d a4 t an2 j ie1 q in1 z ao1 zh eng3 d e5 q iou3 sh iii4 b ing4 g ong1 k ai1 f a1 b iao3 ai4 d e5 x van1 y ian2|I I I I B2 B2 I I B2 B2 I I B1 B1 I I I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B2 B2 I B1 B1 I I I I
+DUMMY2/007570.wav|n ong2 y iong4 s an1 l uen2 ch e1 sh ang4 p iao3 b ai2 h ou4 d e5 d ou4 y ia2 g e4 t ou5 b ao2 m an3 q i1 b a1 l i2 m i3 ch ang2 t ong1 t i3 l iang4 b ai2|I I B1 B1 I I B1 B1 I I B3 B3 I I I I I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I
+DUMMY2/003278.wav|m en2 w uei4 b u4 g an3 d an1 zh e4 g e5 z e2 r en4 ch e2 h uang3 sh uo1 y iao4 sh iii5 b u2 z ai4|I I B2 B2 I I B1 B1 B1 B1 I I B1 B1 I I B3 B3 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/006511.wav|k e3 sh iii4 j in1 t ian1 t a1 j v1 r an2 z ai4 m ou2 b ao3 b a2 b ao3 h u4 k e2 h e2 t ie1 m o2 d ou1 m ai2 h ao3 l e5|I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I B2 B2 B1 B1 I I I I B2 B2 B1 B1 I I B1 B1 B1 B1 I I I I I I
+DUMMY2/005542.wav|l a1 f ei1 e3 rr sh uo1 p u2 p u3 zh u4 z ai4 w uo4 s en1 d ao3|I I I I B1 B1 B3 B3 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/007554.wav|zh iii3 sh iii4 h uei4 z ai4 x iang4 m u4 sh ai1 x van3 sh ang4 g eng4 j ia1 j in3 sh en4|I I B2 B2 I I B1 B1 I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/004065.wav|d uei4 y v2 zh uang4 y van2 g uei4 g uan1 g eng3 y van2 sh eng1 sh uo1 e2 rr z ii5 h ai2 sh iii4 y iou2 d ian3 j i1 d ong4 h e2 x ing1 f en4|I I B2 B2 I I B1 B1 I I B3 B3 I I I I I I B3 B3 I I B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 B1 B1 I I I I
+DUMMY2/002904.wav|zh iii4 j in1 q iang2 sh ang4 r eng2 k e3 j ian4 l ei2 l ei2 d an4 h en2|I I B1 B1 I I B2 B2 B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/003771.wav|g uo3 d uan4 f ang4 q i4 w uang2 z uen1 zh ei4 g e5 w uo2 x i3 h uan1 d e5 m ing2 z ii4|I I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 B1 B1 I I I I B1 B1 I I I I
+DUMMY2/005167.wav|t ong2 sh iii2 y iang3 q i4 y ie3 c u4 j in4 l e5 m ian4 j in1 d e5 x ing2 ch eng2 r ang4 m ian4 d ian3 k ou2 g an3 g eng4 h ao3|I I B3 B3 I I B2 B2 B1 B1 I I I I B1 B1 I I I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009053.wav|w uo3 h ai2 m ei2 y iang3 g uo4 ch ong3 w u4 n e5 b u2 g uo4 d ao4 sh iii4 h en2 x iang3 ch ang2 sh iii4 y i2 x ia4|I I B1 B1 I I I I B1 B1 I I I I B3 B3 I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/000471.wav|x in1 r en2 h ua1 x iao1 d a4 h uen1 q ing4 g ong1 s ii1 y ie2 h an2 k u3|I I B2 B2 I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/006384.wav|n i3 z ai4 x ia4 b ian5 d ou1 g an4 sh en2 m e5 l e5|I I B1 B1 I I B1 B1 B1 B1 I I I I I I I I
+DUMMY2/001617.wav|f en1 s an4 s ii1 j i1 zh u4 y i4 l i4 w ua5|I I B2 B2 I I B1 B1 I I I I I I I I
+DUMMY2/003645.wav|k e2 l ao3 sh iii1 g ao4 s u5 t a1 p in2 k uen4 sh eng1 k e2 y i3 sh en1 q ing2 m ian3 x ve2 f ei4|B1 B1 I I B1 B1 I I I I B3 B3 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/007274.wav|ou3 z ai4 h e2 n i3 l iao2 t ian1 a5|I B1 B1 I I B1 B1 I I I I I
+DUMMY2/009595.wav|w uo2 y iou3 y i4 k e1 r e4 ai4 sh eng1 h uo2 d e5 x in1 zh e4 b i3 sh en2 m e5 d ou1 zh ong4 y iao4|I I B1 B1 I I B1 B1 I I B1 I I I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/001399.wav|z ao2 h an2 n i3 b i4 y i2 x ia4 m a5 h uo2 g ai1|B1 B1 I I B2 B2 B1 B1 I I I I B3 B3 I I I I
+DUMMY2/005132.wav|t a1 m en5 m ie4 sh iii4 f a3 l v4 j ian4 t a4 f a3 l v4|I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/002190.wav|r ang4 w u2 l iao2 b ian4 d e5 y iou3 h ua4 l iao2|B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/001425.wav|t a3 j i1 j iang1 z ai4 n an2 f ei1 an1 q van2 j i2 b ie2 z uei4 g ao1 d e5 k ua1 z u5 l u3 n a4 t a2 e2 rr sh eng3 j ian1 y v4 f u2 x ing2|I I B2 B2 I I B2 B2 I I B1 B1 I B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/003066.wav|j iang3 zh e5 j iang3 zh e5 t a1 y i2 zh en4 q van2 m o2 c a1 zh ang3 h ou4 y iao2 y iao5 t ou2 sh uai2 sh uai2 j iao3 b ai1 b ai1 sh ou3|I I B1 B1 I I B3 B3 I I I I B2 B2 I I B1 B1 I I I I B3 B3 I I I I B2 B2 I I I I B3 B3 I I I I I I
+DUMMY2/004765.wav|y i4 x ie1 d an2 x iao3 d e5 d ian4 zh u3 w uang2 w uang3 y van4 y i4 ch u1 q ian2 an1 f u3 s ii1 x ia4 l iao3 j ie2|I I B2 B2 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I B2 B2 I I B1 B1 I I I I
+DUMMY2/008958.wav|y v2 sh iii4 zh ang1 m ou3 t ao1 ch u1 l e5 sh en1 sh ang4 d ai4 zh e5 d e5 d ian4 x ian4 j iang1 h uang2 l ao3 t ai4 l ei1 s ii3|I I B2 B2 I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I B1 B1 I I B3 B3 B1 B1 I I I I B1 B1 I I I I
+DUMMY2/008624.wav|t a1 b u2 h uei4 x ie3 z ii4 y v2 sh iii4 j iou4 en4 l e5 sh ou3 y in4|B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 B1 B1 I B1 B1 I I I I
+DUMMY2/007893.wav|d e2 w uo4 x ia4 k e4 sh ou3 x ian1 d uei4 zh ong1 g uo2 ao4 y vn4 h uei4 d e5 ch ou2 b ei4 g ong1 z uo4 d a4 j ia1 z an4 sh ang3|I I B1 B1 I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/007708.wav|d a4 g ai4 y iou3 e4 rr b ai3 l ai2 h u4 sh ou4 p ian4 j in1 e2 y iou3 s an1 s ii4 sh iii2 w uan4 y van2|I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/005448.wav|zh e4 z uo4 m ei3 g uo2 d ong1 an4 d e5 d u3 ch eng2 p ing2 r iii4 x i1 l ai2 r ang2 w uang3 r e4 n ao4 f ei1 f an2|I I B2 B2 I I B1 B1 I I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/008667.wav|ch eng2 sh iii4 r en2 sh eng1 h uo2 j ie2 z ou4 g ai3 b ian4 l e5 h uei4 z ii4 j i3 an1 p ai2 sh iii2 j ian1|I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I B3 B3 B1 B1 I I B1 B1 I B1 B1 I I I I
+DUMMY2/005293.wav|b ei1 n an2 y iou3 sh iii2 t a1 x ian1 l ie2 z uei3 y i2 x iao4 sh ao1 sh ao1 w uan1 y iao1|I I I I I I B3 B3 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/002714.wav|c uen1 m in2 ch eng1 l ong2 g u3 d ong4 m u4 q ian2 y i3 b ei4 c ai3 k uang4 zh e3 zh a4 h uei2 y ian3 m ai2|I I I I B3 B3 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/004173.wav|g ai1 t ai2 f u4 y vn2 n an2 d e5 k e1 p u3 b u4 zh u3 r en4 zh ang1 y iang2 b iao3 sh iii4 x i1 w uang4 g uan1 c e4 g ong1 z uo4 y i2 q ie4 sh uen4 l i4|I I B2 B2 B1 B1 I I I I B2 B2 I I I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/005533.wav|zh ao2 j i2 y iou5 x ian4 z ai4 y iou4 m ei2 y iou3 b an4 f a3|I I I I B3 B3 I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/009237.wav|w uei4 h e2 m ei2 y iou3 y i4 j ia1 zh ong1 g uo2 q i3 y ie4 z uo4 w uei2 b en3 j ie4 y ia4 y vn4 h uei4 d e5 z an4 zh u4 sh ang1 n e5|I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I I I B1 B1 I I I I I I I I
+DUMMY2/006918.wav|n i3 m en5 z en3 m e5 h uei4 d eng3 d e5 d ao4 y ia5|I I B1 B1 I I I I B1 B1 I I I I I I I I
+DUMMY2/003666.wav|j ian4 h uo4 y ie3 h uei4 sh e4 j i2 h u2 sh eng2 x ian1 sh eng5|I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009706.wav|q iao2 d e5 l ing4 y i4 d uan1 w uei4 f ang2 zh iii3 r en2 sh ang4 q iao2 t e4 y i4 q i4 q i3 l e5 y i4 d u2 ai3 q iang2|I I B1 B1 I I I I B2 B2 B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I
+DUMMY2/005532.wav|w uo3 sh iii4 d eng1 sh an1 ai4 h ao4 zh e3|I I B2 B2 I I B1 B1 I I I I I
+DUMMY2/000305.wav|x ian4 y in1 zh iii2 x ing2 x ing2 m an3 y v2 y i3 sh iii4 f ang4|I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/006787.wav|x ian4 ch ang3 d e5 j ia1 b in1 f ei1 ch ang2 z an4 t ong2 g uo1 j in1 d e5 k ou1 m en2 l uen4|I I I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I I I
+DUMMY2/009316.wav|sh iii2 e4 rr r iii4 ou1 y van2 d uei4 m ei3 y van2 d e5 b i3 j ia4 sh iii4 y i1 b i3 y i1 d ian3 s an1 w u2 j iou3 s an1|I I I I B3 B3 I B1 B1 B1 B1 I I I I B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007546.wav|f ei1 ch ang2 j in3 zh ang1 z ou3 l u4 m ei3 y i2 b u4 d ou1 y iou2 d ian3 rr b ie4 n iou3|I I B1 B1 I I B3 B3 I I B1 B1 I I I I B2 B2 B1 B1 I I B1 B1 B1 I I I I
+DUMMY2/009774.wav|zh e4 f u2 h e2 g uang3 d a4 f a1 zh an3 zh ong1 g uo2 j ia1 d e5 l i4 y i4 y ie2 y iou3 l i4 y v2 t uei1 j in4 q i4 h ou5 b ian4 h ua4 g uo2 j i4 h e2 z uo4|B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I B1 B1 I I B3 B3 B1 B1 I I I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001174.wav|j iou4 j iou5 m a3 sh ang4 zh iii4 w uen4 l in2 m ing2 f a1|I I B2 B2 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/005572.wav|j in4 ch u1 s ou1 zh u2 y i4 n i3 sh iii4 x iang3 ch eng2 f a2 t a1 h ai2 sh iii4 ch eng2 f a2 w uo3 y ia5|I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009689.wav|zh e4 y ie3 sh iii4 z uo4 w uei2 w uang3 l uo4 x ie2 sh ou3 z uei4 t ong4 k u3 d e5 sh iii4|I I I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 B1 B1 I I I I I I I I
+DUMMY2/003977.wav|b ie2 j i2 b ie2 j i2 d eng2 w uo3 ch uan1 y ve4 h uei2 q v4 b ang1 n i3 k an4 k an5 h a1|I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/004526.wav|w uo3 ch a2 l e5 y i2 x ia4 sh iii4 ai4 x in1 j ve2 l uo2 p u3 y i2|B1 B1 I I B1 B1 I I B3 B3 B1 B1 I B1 B1 I I B1 B1 I I I I
+DUMMY2/007210.wav|j ia1 s u4 zh e4 y i2 f an4 z uei4 t uan2 h uo3 m ie4 w uang2 d e5 j ing4 sh iii4 y i2 g e5 x iao2 x iao3 d e5 w uang2 t ie3|I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/002411.wav|n iao2 w uang3 d e5 ch iii3 c uen4 y ie3 m ing2 x ian3 d a4 h en3 d uo1|I I I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I I I
+DUMMY2/000628.wav|r en2 w u4 t i3 t ai4 f eng1 y v2 sh en1 z ii1 e1 n uo2 w u3 q vn2 p iao1 y i4 sh en2 c ai3 f ei1 y iang2 j i2 f u4 y i4 sh u4 zh ang1 l i4|I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I B3 B3 I I B1 B1 I I B2 B2 I I I I I I B3 B3 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/004391.wav|ch a2 zh ao3 w uen4 t i2 g eng4 m ei2 y iou3 t uen1 t uen1 t u2 t u3 d uo2 d uo3 sh an2 sh an3 e2 rr sh iii4 zh iii2 j ie1 l iao3 d ang4|I I B1 B1 I I B2 B2 I I I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B2 B2 I I I I I I I I
+DUMMY2/005644.wav|f ei1 ch ang2 h ao3 ch iii1 d an4 sh iii4 t a1 ch iii1 d ao4 z uei2 l i2 ch en3 y ia2 ch iii1 l e5 y i3 h ou4 n eng2 y iao3 d ao4 y i4 z uei3 d e5 sh a1 z ii5|I I B1 B1 I I B3 B3 I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/008365.wav|h e2 n i3 y i4 q i3 k an4 y ve4 l iang4 z en3 m e5 y iang4|I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I I I
+DUMMY2/009658.wav|t a1 m en5 b en2 x iao3 l i4 w uei1 z uei4 n an2 j ing1 sh ou4 sh iii4 ch ang3 d e5 zh en4 d ang4|I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/001319.wav|n a4 y iou4 h e2 b i4 z ai4 x i4 j ie2 sh ang4 j iou1 ch an2 n e5|I I B1 B1 I I I I B2 B2 I I I I B1 B1 I I I I I I
+DUMMY2/009452.wav|w uo3 d ang1 sh iii2 l eng4 z ai4 n a4 b an4 t ian1 b u4 zh iii1 z a3 b an4|B1 B1 I I B1 B1 I I I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/002418.wav|g ong1 y van2 q i1 b ai2 w u3 sh iii5 s an1 n ian2 zh ong4 m a2 l v3 g uei1 g uo2 sh iii2 ch uan2 w uen2 t a1 z ai4 h ai3 sh ang4 y v4 n an4|I I B2 B2 I I B1 B1 I I I I I I B3 B3 I I I I B1 B1 I I I I B3 B3 I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004011.wav|h e2 d e2 y vn4 sh uo1 zh e4 d ou1 sh iii4 y vn4 q i4 l ian4 g ong1 d e5 y van2 g u4|I I I I B1 B1 B3 B3 B1 B1 I I B2 B2 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/009745.wav|b u2 y iao4 f en4 n u4 y ie3 b u2 y iao4 sh iii4 t u2 g ai3 b ian4 y iou2 x i4 g uei1 z e2|I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/005986.wav|t ai4 g ao3 x iao4 l e5 zh iii3 n eng2 sh uo1 sh iii4 x ian1 l ian2 g ua2 ch iii3 e2 rr y iou3 h ai4 sh e4 h uei4 d e5 ch ao3 z uo4|B1 B1 I I I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/002299.wav|j iou4 s uan4 w uo3 sh iii4 z ii4 x vn2 f an2 n ao3 b a5|I I B1 B1 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/000917.wav|y iou3 zh uan1 j ia1 r en4 w uei2 y ing1 sh en4 t an2 g uai2 d ian3|B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/009830.wav|w uo3 d e5 p u3 t ong1 h ua4 h ai2 sh iii4 t ing3 b iao1 zh uen3 d e5 b a5|I I B1 B1 I I I I B2 B2 I I I I B1 B1 I I I I I I I I
+DUMMY2/005936.wav|sh iii4 b u2 sh iii4 y i1 r an2 j ve2 d e5 w uo3 h en2 k e3 ai4|I I I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I
+DUMMY2/006880.wav|l ing4 w uai4 j iou4 sh iii4 ch ong1 f en4 f a1 h uei1 d uen3 ch uan2 d e5 z uo4 y iong4 q v2 sh uei3|I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001416.wav|d ang1 r iii4 w u3 h uan2 n ei4 zh eng4 sh iii4 k ai1 sh ou4 t u4 n ian2 y ian1 h ua1|I I B3 B3 I I I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/002405.wav|zh ang1 b o1 sh en1 x ing2 ai2 x iao3 sh uo1 h ua4 sh eng1 y in1 b u2 d a4|I I B2 B2 I I B1 B1 I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001051.wav|b ing4 t an3 y ian2 sh eng1 r iii4 y van4 w uang4 sh iii4 x i1 w uang4 ao4 m en2 sh eng1 y i4 h ao3|B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 B1 B1 I I B2 B2 I B2 B2 I I I I I I
+DUMMY2/009603.wav|h uo2 h en3 d a4 k an4 b u4 q ing1 y ian1 y ie2 h en3 d a4|B1 B1 I I B3 B3 I I I I B3 B3 B1 B1 I I I I I I
+DUMMY2/001244.wav|l an2 t ian1 b ai2 y vn2 x ia4 l v4 sh u4 h uan2 r ao4 j ian1 zh e4 s uei2 f eng1 w u3 d ong4 d e5 y i4 m o3 h ong2 x ian3 d e5 g e2 w uai4 x ing3 m u4|I I B2 B2 I I I I B3 B3 I I B1 B1 I I I I B3 B3 B1 B1 I I B1 B1 I I I I B1 B1 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001182.wav|ch u1 q v4 p ao3 y i4 q van1 j iou4 h ao3 l e5|I I B2 B2 I I I I B1 B1 I I I I I I
+DUMMY2/005805.wav|y in1 c ii3 z eng1 ch iii2 m ei3 y van2 g uo2 zh ai4 j iou4 ch eng2 w uei2 zh ong1 g uo2 y iang1 h ang2 d e5 z an4 sh iii2 zh iii1 x van3|I I B3 B3 I I B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/003452.wav|f o2 l uo2 l uen2 s a4 zh u3 r en2 d ai4 w uo3 q v4 k an4 k an5 m a5|I I I I I I B3 B3 I I B2 B2 I I B1 B1 B1 B1 I I I I I I
+DUMMY2/008301.wav|zh e4 sh iii4 d ang2 w uei3 zh eng4 f u3 d e5 zh ong4 y iao4 zh iii2 z e2|I I B2 B2 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/003919.wav|j i1 h uei4 z ong3 sh iii4 ch uei2 q ing1 y iou2 zh uen3 b ei4 d e5 r en2 h uang2 b ai3 g ao1 y ie3 b u2 l i4 w uai4|I I B2 B2 I I B1 B1 I I B2 B2 B1 B1 I I I I I I B3 B3 I I I I B2 B2 I I I I I I I I
+DUMMY2/000419.wav|m ian4 d uei4 q i2 r ong3 ch ang2 f a1 y ian2 h uang2 w uen2 z ai2 w uei3 y van2 r en3 w u2 k e2 r en3 j i1 f en4 zh iii4 zh iii3|I I I I B2 B2 I I B1 B1 I I B3 B3 I I I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/002465.wav|t a1 h ai2 y iao1 q iou2 g u4 w uen4 m en5 l iao2 j ie3 b a1 n i2 d e5 x iang2 x i4 q ing2 k uang4|I I B1 B1 I I B1 B1 I I I I B3 B3 I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/003028.wav|q i1 z ii5 sh en1 sh ang4 n an2 sh ou4 t uei2 j iao3 f a1 m a2 h uen2 sh en1 zh ong3 zh ang4 d u4 z ii5 g en1 p i2 q iou2 y i2 y iang4 g u3|I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B2 B2 B1 B1 I I B1 B1 I I I I I I
+DUMMY2/007149.wav|z ao1 sh ou4 j ian1 ao2 d e5 r en2 m en5 sh en1 sh en1 p an4 w uang4 zh e4 zh ong3 k u4 sh u3 n eng2 y iou3 g e4 j in4 t ou2|I I B1 B1 I I I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/007996.wav|g uo4 q v4 j iang1 d u2 sh u1 z uo4 w uei2 x iou1 sh en1 y iang3 x ing4 d e5 t u2 j ing4 y iou3 d ao4 l i3|I I B2 B2 I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I B3 B3 B1 B1 I I I I
+DUMMY2/009445.wav|y iou3 m ei2 t i3 zh iii2 y ian2 zh e4 y iang4 l u4 g u3 d e5 j iao4 y v4 b u4 j in3 w u2 y iong4 e2 rr q ie2 y iou3 h ai4|B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/001133.wav|z a3 l a5 f en2 r ang4 r en2 p ao2 l e5|I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/002558.wav|l iang3 m ing2 f u4 n v3 zh eng4 z ai4 j iang1 ang1 z ang1 d e5 sh ao4 sh uei3 y iou2 q v4 zh a1 f en1 c eng2 ch en2 d ian4|I I B1 B1 I I B2 B2 I I I I B1 B1 I I I B1 B1 I I I I B2 B2 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/006892.wav|w uo3 zh iii1 d ao4 t a1 y iou3 zh e4 g e5 d ong4 z uo4 l a5 t a1 y ie3 c eng2 j ing1 w uen4 w uo3 d e5 d ang4 q i1|I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/008554.wav|b en2 y i3 w uei2 j in4 b a1 zh ong1 sh iii4 t uo2 t uo3 rr d e5 q i2 t a1 x ve2 x iao4 g en1 b en3 m ei2 k ao3 l v4|I I I I B2 B2 I I I I B1 B1 B1 B1 I I I I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/009217.wav|e2 rr q iou1 y i2 k e3 ch en2 q i2 d eng3 l ao2 zh u3 l i4 g eng4 sh iii4 x ian3 d e5 c uo1 t uo2 l e5 x v3 d uo1|B2 B2 I I I I B2 B2 I I B2 B2 B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/008636.wav|d uei4 c ii3 f an3 d uei4 d ang3 g ong1 d ang3 b u4 f en4 y i4 y van2 t ong4 p i1 zh e4 g en1 b en3 sh iii4 g e5 n u2 l i4 j i4 h ua4|I I B3 B3 I I I I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009531.wav|y i3 h ou4 n i3 z ai4 zh e4 m e5 d a4 sh eng1 sh uo1 w uo3 w uo3 j iou4 g ei2 n i2 d ian3 y ian2 s e4 k an4 k an4|I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004763.wav|w uo3 m en5 z ai4 sh ai1 x van3 h ou4 h uei4 t ong1 zh iii1 n in2 j ie2 g uo3|I I B1 B1 B1 B1 I I I I B3 B3 B1 B1 I I I I B1 B1 I I I I
+DUMMY2/006474.wav|j i4 r an2 z en3 y iang4 d ou1 sh iii4 r ong2 z ii1 n a4 m e5 a1 l i3 b a1 b a1 h en2 y iou2 k e3 n eng2 j i4 x v4 f ang4 d a4 w uei4 k ou3|I I B2 B2 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004307.wav|l i2 b a1 n en4 d ian4 x in4 b u4 zh ang3 y ie2 b iao3 sh iii4 y i1 d u4 zh iii1 s ii3 sh iii4 d a4 m a3 sh iii4 g e2 q ing1 s uan4 y vn4 d ong4 d e5 y in1 m ou2 zh iii1 y i1|I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I B3 B3 I I B1 B1 I I B2 B2 B1 B1 I I I I I I B2 B2 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004524.wav|m ian4 d uei4 f eng1 sh uei3 d ian4 y ian3 h ua1 l iao2 l uan4 d e5 zh ao1 p ai2 y iou2 k e4 m en5 d a4 d ou1 c ong1 c ong1 z ou3 g uo4|I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I B1 B1 I I B3 B3 I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001265.wav|g ang1 g ang1 w uo2 d uan3 l u4 l a5|I I B2 B2 B1 B1 I I I I I I
+DUMMY2/002785.wav|p ei4 l ing2 w uei4 h uen1 x ian1 y vn4 d e5 n v3 e2 rr sh iii4 l ing4 p ei4 l in2 j i2 g ong4 h e2 d ang3 n an2 k an1 d e5 sh iii4|I I B2 B2 I I B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 B1 B1 I I I I B2 B2 I I I I I I I I
+DUMMY2/001354.wav|y iou3 r en2 d ong4 sh ou3 l a1 ch e3 ch en2 k e1 y v3 t a1 j iang1 h ei1 s e4 p i2 b ao1 s ii2 s ii3 zh ua1 z ai4 sh ou3 zh ong1|I I B2 B2 I I B1 B1 I I B2 B2 I I I I B3 B3 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004977.wav|n i2 x iang3 y iao4 sh en2 m e5 r an2 h ou4 n e5|B1 B1 I I B1 B1 I I B3 B3 I I I I I I
+DUMMY2/002314.wav|x ing2 r ong2 a1 l i3 sh an1 g u1 n iang5 m ei3 r u2 sh uei3 y ing1 g ai1 j iou4 sh iii4 m ei3 r u2 r iii4 y ve4 t an2 d e5 sh uei3 b a5|I I B2 B2 I I I B1 B1 I I B2 B2 I I I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I I I I I B1 B1 I I I I
+DUMMY2/005366.wav|zh ang1 x ian1 sh eng5 sh uo1 t a1 z an3 l e5 b u4 sh ao3 e2 rr z ii5 d e5 j ve2 x in1 sh u1 b ao3 zh eng4 sh u1 q ve4 w u2 f a2 w uan3 h uei2 e2 rr z ii5|I I I I B1 B1 B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I B2 B2 I I I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009521.wav|g e3 x iao2 j ie3 d e5 m a1 m a5 w uang2 n v3 sh iii4 zh iii4 j in1 r eng2 r an2 y i3 l ei4 x i3 m ian4|I I I I I I B1 B1 I I B1 B1 I I I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/005651.wav|zh e4 sh iii4 e2 l uo2 s ii1 l i4 sh iii3 sh ang4 sh ang1 w uang2 z uei4 c an3 zh ong4 d e5 q ian2 t ing3 sh iii4 g u4|I I B2 B2 I I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/002344.wav|ch en2 sh uei2 b ian3 k ai1 zh uan1 l an2 y in2 q i3 j v4 d a4 f en1 zh eng1|I I I I B2 B2 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004847.wav|j ia3 r u2 zh en1 y iou3 zh e4 zh ong3 r en2 w uo3 n ing4 y van4 q v4 ch ang2 t a1 d ao3 d an4 d e5 z ii1 w uei4|I I B2 B2 I I B1 B1 I I I I B3 B3 B1 B1 I I B1 B1 B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/002970.wav|d an4 x in4 d ai4 y i1 r an2 r u2 ch u1 l ong2 m eng2 h u3 y i2 l u4 k uang2 b en1|B2 B2 I I B2 B2 I I B1 B1 B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/003517.wav|g uo2 sh ou3 y vn2 j i2 sh iii4 p ing1 ch ao1 d e5 y i2 d a4 m ai4 d ian3|I I B1 B1 I I B3 B3 B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/008586.wav|c ii3 q ian2 sh a1 y i4 c eng2 b iao3 sh iii4 j ie2 h uen1 h ou4 k en3 d ing4 h uei4 m a3 sh ang4 y iao4 b ao3 b ao5|I I B2 B2 I I B1 B1 B1 B1 I I B3 B3 I I I I B2 B2 I I I I B1 B1 I I B1 B1 B1 B1 I I I I
+DUMMY2/004602.wav|zh u1 l i4 d ai4 zh e5 w ua2 w ua5 m en5 ch u1 x ian4|I I B2 B2 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/009075.wav|zh ang1 y ing3 q ing1 ch uang4 l i4 d e5 x ve2 k e1 sh ou4 g ao1 d u4 p ing2 j ia4|I I I I B2 B2 I I I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/004761.wav|z uo2 r iii4 sh iii2 p u2 g ang3 h ai2 x ia4 l e5 l ei2 zh en4 y v3|I I B3 B3 I I I I B2 B2 I I I I B1 B1 I I I I I I
+DUMMY2/000157.wav|q in1 p eng2 h ao2 y iou3 p eng3 zh e5 h ua1 l an2 q ian2 l ai2 d iao4 y ian4|I I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/009064.wav|r en2 m en5 h e5 w uo3 m en5 h ai2 n eng2 z ai4 k ai1 d a4 l ong2 t ou2 r ang4 q ing1 l ing2 l ing2 d e5 z ii4 l ai2 sh uei3 zh ou4 y ie4 ch ang2 l iou2 m a5|I I I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I I I B3 B3 B1 B1 I I I I I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/003308.wav|zh e4 sh iii4 t ou2 sh ang4 z an1 j v2 d e5 b ian4 s u2|I I B2 B2 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/009086.wav|t ong2 y iang4 d e5 h ou4 x van2 ch iii3 c uen4 y ie3 j in4 x ing2 l e5 s uo1 d uan3|I I I I B3 B3 I I B1 B1 I I B2 B2 B1 B1 I I I I B1 B1 I I I I
+DUMMY2/003039.wav|x van3 b a2 k ao3 sh iii4 m en2 k an3 g ao1 n ei4 r ong2 n an2|I I B1 B1 I I B2 B2 I I I I B3 B3 I I I I I I
+DUMMY2/003255.wav|t a1 c eng2 j ing1 y ing2 l ao2 w u4 p ai4 q ian2 d eng3 sh eng1 y i4 d an4 sh eng1 y i4 j ing1 y ing2 d ou1 b u2 s uan4 ch eng2 g ong1|I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/002979.wav|m ing2 r en2 y i4 ch uei1 w uo3 m en5 j iou4 x iang1 x in4 l a5 j iou4 sh ang4 d ang4 l e5 k e3 b ei1 y ia5|I I B1 B1 I I B2 B2 I I B1 B1 B1 B1 I I I I B3 B3 I I I I I I B3 B3 I I I I I I
+DUMMY2/005154.wav|g u4 k e4 w uo2 l i3 y i2 c ii4 f a4 n i3 j ing4 sh ou1 w uo2 w u3 y van2 q ian2 w uo3 t ou2 sh ang4 j i1 h u1 m ei2 y iou3 t ou2 f a4 y ia5|I I B3 B3 I I B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/009876.wav|y ing1 g ai1 sh iii4 b i3 m o4 zh iii3 y ian4 b a5|I I I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/006128.wav|t ong1 ch ang2 g u4 sh iii5 zh ong1 sh an4 l iang2 zh eng4 p ai4 d e5 w uang2 z ii3 z ai4 b en3 p ian4 q ve4 sh iii4 g ao1 ao4 z ii4 d a4 d e5 j ia1 h uo5|I I B2 B2 I I I I B2 B2 I I B1 B1 I I I I B1 B1 I I B3 B3 B1 B1 I I B2 B2 I I B1 B1 I I B1 I I I I B1 B1 I I I I
+DUMMY2/009225.wav|h ou4 l ai2 n v3 q ing1 n ian2 b ei4 m in2 j ing3 l a1 sh ang4 j ing3 ch e1 d ai4 w uang3 p ai4 ch u1 s uo3 x ing2 j iou3|I I B3 B3 I I I I B2 B2 B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/007421.wav|sh iii4 h ou4 l in2 m ou3 z ai4 c ii4 zh iii1 f u4 p an1 m ou3 b ao4 ch ou5 y i2 w uan4 y van2|I I B3 B3 I I B2 B2 I I B1 B1 I I B2 B2 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/008685.wav|y i1 sh eng1 y i2 k an4 j ing1 d ai1 l e5|I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/003995.wav|an2 d ei2 zh ao3 l in2 zh an4 g ei3 l in2 zh an4 sh uo1 h ao3 d ao4 sh iii2 j ian1 r en2 j ia1 q v4|I B1 B1 I I I I B3 B3 B1 B1 I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I I I
+DUMMY2/005974.wav|x ian4 z ai4 z an4 sh iii2 n an2 y i2 ch uai3 c e4|I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009704.wav|p an1 sh iii2 y i4 ch u1 l e5 y i2 g e5 j ia4 q ian5 w uo3 m en5 z ong1 h e2 k ao3 l v4 k e2 y i3 j iou4 m ai4 l ou5|I I I I B2 B2 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/008366.wav|g uang2 b en3 g uan2 l i3 r en2 y van2 r u2 sh iii4 sh uo1|I I B2 B2 I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/009676.wav|p i4 r u2 sh uo1 m ei2 g uei1 z ong3 sh iii4 zh ang3 b u4 h ao3|I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/004003.wav|l ao3 p o2 g uo4 q v5 an1 w uei4 sh uo1 b ie2 k u1 l e5 zh e4 y iou3 sh en2 m e5 t eng2 d e5|I I B1 B1 I I B1 B1 I B2 B2 B3 B3 I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004119.wav|w uo3 m en5 g uo4 q v4 d e5 g e2 m ing4 q i3 f ei1 d eng3 y v2 b ai2 g an4 y i4 ch ang3|I I B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/003541.wav|r u2 g uo2 w uo3 g uen2 y van3 l e5 j iou4 h uei2 b u4 l ai2 l e5|I I B1 B1 B1 B1 I I I I B2 B2 B1 B1 I I I I I I I I
+DUMMY2/003877.wav|w uo3 h uei4 j iang2 l eng3 x iao4 h ua5 y iou3 y ian2 s e4 x iao4 h ua4 z an4 sh iii2 h ai2 b u2 h uei4|I I I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/001486.wav|j iang1 zh iii4 m ing2 zh uan3 sh u4 b ian2 y in3 y iong4 t an2 j ing1 h uei3 y v4 b u2 d ong4 ai1 y ve4 b u4 sh eng1 d ai4 b iao3 m u4 q ian2 x in1 j ing4|I I I I B1 B1 I I B3 B3 B1 B1 I I B2 B2 I I B3 B3 I I B1 B1 I I B3 B3 I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/007025.wav|n i3 zh iii1 d ao4 g uei3 w u1 z ai4 n a2 l i3 b a5|B1 B1 I I B1 B1 I I B1 B1 B1 B1 I I I I I I
+DUMMY2/007860.wav|n i2 z en3 m e5 zh iii1 d ao4 w uo3 ai4 h ua4 h ua4|B1 B1 I I B1 B1 I I B1 B1 I I B1 I I I I
+DUMMY2/006197.wav|l eng3 g uo2 q van2 b ei4 zh ua1 h e2 b ao4 zh ong1 w u3 f an4 d u2 sh iii4 f a1 y iou3 g uan1|I I I I B1 B1 I I B3 B3 B1 B1 I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/006813.wav|e2 rr n an2 sh eng1 z e2 x iang1 d uei4 m eng2 d ong3 d e5 d uo1|B1 B1 I I B2 B2 I I I I B1 B1 I I I I I I I I
+DUMMY2/007020.wav|t a1 m en5 sh uo1 j van1 z eng4 zh e3 d a4 d uo1 w uei2 n v3 x ing4|I I I I B3 B3 I I I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/003428.wav|x ian2 zh e5 m ei2 sh iii4 m ai3 l e5 b en3 y v2 j ia1 sh u1 r ang4 n an2 y iou3 p ei2 zh e5 l ian4|I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I B3 B3 I I I I B2 B2 I I I I I I
+DUMMY2/009513.wav|b u4 j in2 j in3 s u4 d u4 k uai4 e2 rr q ie3 zh iii4 l iang4 g ao1|I I I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I I I
+DUMMY2/007724.wav|ch ao1 sh iii4 n ei4 r en2 t ou2 c uan2 d ong4 sh eng1 y i4 b i2 w uang3 ch ang2 h uo3 b ao4 x v3 d uo1|I I I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/001269.wav|x ve2 sh eng1 b u4 j ie3 d e5 w uen4 w uo3 n a2 rr y ie3 b u4 t eng2 a5|I I B2 B2 I I I I B1 B1 B3 B3 B1 B1 B1 B1 B1 B1 B1 I I I I I
+DUMMY2/001331.wav|s an1 g eng1 b an4 y ie4 b u2 sh uei4 j iao4 h an3 sh en2 m e5 h an3|I I B1 B1 I I B2 B2 I I I I B3 B3 B1 B1 I I I I I I
+DUMMY2/008594.wav|x ie4 h an4 h ua2 sh uo1 d ang1 sh iii2 t a1 y iou4 j ing1 y iou4 x i3 x in1 l i3 y ie2 y iou3 l e5 h uai2 y i2|I I I I I I B3 B3 I I B1 B1 B2 B2 I I B1 B1 I I B3 B3 I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/005642.wav|c ii3 h ou4 n ei4 g e2 z ai4 c ii4 d a4 g ai2 z u3|I I B2 B2 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/003285.wav|g ai1 h ang2 y ie4 p ai2 m ing2 d i4 y i1 d e5 w uei2 w uei2 j i1 b ai3 k e1 d e2 f en1 w uei2 q i1 sh iii5 b a1|B1 B1 I I B2 B2 I I B1 B1 I I I I B3 B3 B1 B1 I I B1 B1 I I B3 B3 I I I I B2 B2 I I I I I I
+DUMMY2/008059.wav|s uo2 y i3 z ai4 zh e4 d ian3 sh ang4 y iou3 y i4 d ian3 rr t uo1 j ie2 l e5|I I B2 B2 B1 B1 I I I I B2 B2 I I I I B1 B1 B1 I I I I I I
+DUMMY2/002993.wav|e2 rr a1 j iao1 d ai4 zh e5 h a2 m a5 j ing4 h e2 m ao2 r ong2 e3 rr m ai4 sh uang1 sh ou3 j iao1 ch a1 y iou1 x ian2 z ii4 z ai4|B1 B1 I B2 B2 I I B1 B1 I I I I B2 B2 B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/002810.wav|b ei4 t iao2 k an3 d e5 k u4 e3 rr x i1 d e2 m ian4 l u4 x iou1 n an3 zh iii1 s e4 x ian3 d e5 b u4 h ao3 y i4 s ii5|B1 B1 I I I I B1 B1 I I I I I I B2 B2 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I I I I I
+DUMMY2/009613.wav|b u2 g uo4 t u3 j iao1 z uo1 f ang5 b ing4 w uei4 c ong2 c ii3 z ai4 sh an1 d ong1 j ve2 j i4|I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 B1 B1 I I B1 B1 I I I I
+DUMMY2/005958.wav|r u2 j in1 q ing2 k uang4 y i3 f a1 sh eng1 n iou2 zh uan3|I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/001173.wav|d eng4 ch ao1 h ai2 t ou4 l u4 d ang4 t ian1 q ia4 f eng2 e2 rr m an3 y ve4 zh iii2 x iang3 z ao2 d ian3 h uei2 j ia1|I I B2 B2 B1 B1 I I B3 B3 I I B2 B2 I I B2 B2 I I I I B3 B3 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/001240.wav|sh uei2 y iou4 l iao2 j ie2 w uo3 x in1 l i3 d e5 k u3 n e5|I I B1 B1 I I B2 B2 B1 B1 I I I I B1 B1 I I I I
+DUMMY2/005014.wav|t a1 h ai2 b iao3 sh iii4 b ei4 l u2 s ii1 k e1 n i2 zh e4 g e5 k uei2 l ei3 b i4 x v1 g uen3 d an4|I I B1 B1 I I B3 B3 I I B1 B1 I I I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/005563.wav|j ian1 c e4 b iao2 y i3 b ao4 h ai2 sh iii4 an1 x in1 zh ai2 z ai4 sh iii4 n ei4 b a5|I I I I B1 B1 I I B3 B3 I I B1 B1 I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/000210.wav|y i4 d ou3 l ing4 y i4 w uan3 x iang1 d ang1 y v2 l iang2 w uan3 b ai2 x ian3|I I B2 B2 B1 B1 I I B3 B3 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/007391.wav|l ao3 r en2 m en5 y iong4 f ang1 y ian2 y i4 q i2 l ang3 d u2 z ii4 j v4 zh iii1 j ian1 y vn4 j iao3 f en1 m ing2 l ang2 l ang3 sh ang4 k ou3|I I I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/006415.wav|y iou3 y i4 h uei2 y i2 g e5 r en2 d a3 d ian4 h ua4 zh ao3 t a1 t a1 y i4 j ie1 q i3 d ian4 h ua4 n a4 b ian1 j iou4 d a4 h ou3 y i4 sh eng1 n ie4 ch u4|I I I I B3 B3 I I I I B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 B1 B1 I I B1 B1 I I B3 B3 I I I I
+DUMMY2/000904.wav|zh ang1 sh ao2 h an2 z uo4 sh iii4 y v2 b i3 s a4 x ie2 t a3 y iong1 b ao4|I I I I B2 B2 I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/007948.wav|zh iii3 y iao4 x in1 zh ong1 y iou3 ai4 y iou3 j ia1 y iou3 q ian1 g ua4 j iou4 b u2 p a4 w u4 m ai2 p iao1 g uo4 j iou4 b u2 p a4 t ian1 q i4 y in1 an4|I I B2 B2 I I B1 B1 I I B2 I I B2 B2 B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I I
+DUMMY2/009340.wav|n i2 x i3 h uan1 w uan2 sh en2 m e5 y iou2 x i4|B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/002883.wav|h ai2 z ii5 d a3 d uan4 l e5 m a1 m a5 d e5 h ua4 w uen4 d ao4 n i3 sh uo1 d e5 sh iii4 x in1 w uen2 l ian2 b o1 n a4 l ia3 b o1 y in1 b a5|I I B2 B2 I I I I B1 B1 I I I I I I B2 B2 I I B3 B3 I I I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/002275.wav|c ong2 sh iii4 f ei1 f a2 m ai3 m ai4 w uai4 h uei4 h uo2 d ong4|I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/009820.wav|y iong4 r en2 d an1 w uei4 b u4 d e2 j v4 j ve2 z u3 n ao2|I I B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 I I I I
+DUMMY2/006516.wav|x ve2 sh eng1 m en5 w uei4 s ii2 zh e3 zh e2 d ie2 l e5 j iang1 j in4 l iang3 w uan4 zh iii1 q ian1 zh iii3 h e4|I I I I B1 B1 B1 B1 I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I I I
+DUMMY2/003610.wav|p eng2 b o2 s ii1 c uen3 z ai4 s an1 h ou4 d uei4 zh ou1 x iao3 h e2 m ian4 sh ou4 j i1 y i2 y iao4 t a1 h ua4 m ing2 y v3 d uei4 f ang1 q ia4 t an2|I I B2 B2 I I B1 B1 I I I I B3 B3 B1 B1 I I I I B2 B2 I I I I I I B3 B3 I I B2 B2 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/008167.wav|q in1 sh u3 m en5 m ang2 zh e5 g ei3 t a1 q ia1 r en2 zh ong1 l u1 sh ou2 zh iii3|I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I B3 B3 I I I I I I
+DUMMY2/003078.wav|ch en4 s ii1 j ia1 l i4 n ing2 zh uan3 m ian4 sh iii2 b ao3 b iao1 g eng4 y i4 sh iii2 q ing2 b u5 z ii4 j in1 k ai1 x in1 d a4 x iao4|B2 B2 I I I I B1 B1 I I I I I I B3 B3 I I B2 B2 I I I I B1 B1 I I I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/006177.wav|y van2 sh iii4 x iao1 sh uo1 zh e5 y iou4 j ve2 d e5 t ou2 y iou3 y i4 d ian3 ch en2 y iou3 y i4 zh ong3 y iao4 b iao3 b ai2 d e5 ch ong1 d ong4|I I I I B2 B2 I I B3 B3 I I I I B1 B1 I I B1 B1 I I I I B3 B3 I I I I B1 B1 B1 B1 I I I I B1 B1 I I I I
+DUMMY2/004368.wav|c ong2 t uan2 g ou4 d an4 sh eng1 n a4 t ian1 k ai1 sh iii3 m a3 y iao2 j iou4 b ei4 zh e4 x in1 x ian1 w uan2 y i4 rr x i1 y in3 zh u4 l e5|B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 I I I I B1 B1 I I B1 B1 I I B2 B2 B2 I I B1 B1 I I I I
+DUMMY2/007480.wav|j i4 zh e2 z ou3 j in4 y i4 j ia1 q i4 ch e1 g ai3 zh uang1 z uo1 f ang5|I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/006677.wav|l u4 m an4 m an4 q i2 x iou1 y van3 x i1 sh uei2 l ai2 b ang1 n i3 l iang2 j v4 l i2|I I I I B1 B1 B1 B1 I I I I B3 B3 I I B1 B1 I I B1 B1 B1 B1 I I I I
+DUMMY2/002945.wav|zh e4 k uan3 j i1 q i4 r en2 y ie2 y iou3 an1 zh uo2 b an2 b en3|I I B1 B1 I I I I B2 B2 I I B1 B1 I B1 B1 I I I I
+DUMMY2/007934.wav|y i4 g ai3 y i2 w uang3 d e5 f an2 s uo2 r ong3 ch ang2 d uo1 d i4 l iang3 h uei4 z ai4 h uei4 y i4 n ei4 r ong2 sh ang4 w u4 sh iii2 j ing1 j ian3|I I B1 B1 I I I I B1 B1 I I B2 B2 I I B3 B3 I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/005394.wav|e2 rr z uei4 zh ong1 d e5 s uen3 sh iii1 d ou1 h uei4 y iou2 t ou2 z ii1 zh e2 m ai3 d an1|B2 B2 I I I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/001903.wav|y ian3 zh e4 b u4 x i4 m ei3 t ian1 d ou1 y v3 g uo1 w uan3 p iao2 p en2 d a3 j iao1 d ao4|B1 B1 I I I I B3 B3 I I B1 B1 I I B2 B2 I I I I I I B1 B1 I I I I I I
+DUMMY2/001482.wav|y iou3 r en2 x ing2 r ong2 z ao1 s ao3 sh e4 d e5 y v2 ch uan2 c an3 b u4 r en2 d u3 m an3 m u4 ch uang1 y i2 y iou3 r u2 f eng1 w uo1 b an1|I I B1 B1 I I B2 B2 B1 B1 I I I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B1 B1 I I I I I I
+DUMMY2/007613.wav|y iao4 g ong3 g u4 w uan2 sh an4 j i1 c eng2 z ong1 h e2 g ai3 g e2|B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/003464.wav|d ang1 sh iii2 w uo2 g an3 j ve2 g ao2 q i3 y ie4 zh en1 h ao3|I I B3 B3 I I I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/009598.wav|x ve2 x iao4 d e5 z ou3 d u2 sh eng1 z ai4 f ang4 x ve2 h ou4 sh iii4 b u4 y vn2 x v3 z ai4 x ve2 x iao4 d ou4 l iou2 d e5|I I I I B1 B1 I I I I B2 B2 B1 B1 I I I I B2 B2 B1 B1 I I I I B1 B1 B1 B1 I I B1 B1 I I I I I I
+DUMMY2/004223.wav|y in1 w uei4 m ei2 sh en2 m e5 j ian4 zh u4 h e2 g ao1 d a4 sh u4 m u4 zh eng3 z uo4 ch en1 h ang2 d ao3 k e3 y i4 y ian3 k an4 ch uan1|I I B2 B2 I I I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/006812.wav|y in1 w uei4 z u1 d e5 f ang2 z ii5 l i2 d an1 w uei4 b u4 y van3 t a1 j iou4 d u2 z ii4 y iao2 y iao2 h uang4 h uang4 w uang3 j ia1 z ou3|I I B2 B2 I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/008048.wav|zh eng4 w uei3 r uei4 sh uang1 l in2 g ao4 s u4 j i4 zh e3 z ai4 zh e4 l i3 w uo3 m en5 y i4 j v2 sh ou3 y i4 t ou2 z u2 d ou1 g uan1 h u1 w uo3 j vn1 d e5 x ing2 x iang4|I I B2 B2 I I I I B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B3 B3 I I B1 B1 I I I I B2 B2 I I I I B3 B3 B1 B1 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/003537.wav|b ao4 d ao4 ch eng1 d ong1 ou1 y i4 x ie1 sh eng1 h uo2 j ian1 k u3 d e5 n v3 x ing4 y van4 y i4 y i3 ch u1 sh ou4 l uan2 z ii3 w uei2 sh eng1|I I I I B3 B3 I I B1 I I B2 B2 I I B1 B1 I I I I B1 B1 I I B3 B3 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/005282.wav|y i1 sh iii4 d uo1 r iii4 l ian2 x v4 p ai2 sh uei3 sh iii2 sh uei3 b eng4 s uen3 h uai4 p ai2 sh uei3 n eng2 l i4 x ia4 j iang4|I I B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/000534.wav|w uei4 b ao4 f u5 t a1 y iong4 b an1 sh ou3 j iang1 j ian1 f u1 d a2 s ii3|B1 B1 I I B1 B1 B1 B1 B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/000053.wav|y i3 j i2 c ii2 x iong2 k ong2 z ii2 n iao3 f u4 y van2 t u2|I I B2 B2 I I B1 B1 I I I I B2 B2 I I I I I I
+DUMMY2/002328.wav|y ian2 y ing3 b u4 n eng2 p ing2 t u2 y ing1 y iong4 zh an4 d e5 f ang1 sh iii4 m eng2 l ong2 y iou4 b u4 sh iii1 k ua1 zh ang1|I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/000043.wav|z uei3 b a5 zh ou1 w uei2 l ve4 w uei1 zh ong2 q i3|I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/004394.wav|w uo3 m en5 b u4 n eng2 b a3 ch ang2 p ao3 d ang1 d uan2 p ao2 p ao3|I I B1 B1 I I I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I
+DUMMY2/007879.wav|t u2 zh ong1 ch e1 l uen2 x ia4 d e5 s ao4 zh ou5 sh u3 y v2 y i4 m ing2 h uan2 w uei4 g ong1 r en2|I I B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/008997.wav|r u2 g uo3 sh uai4 sh iii4 y i4 zh ong3 z uei4 n a4 j in1 t ian1 zh u3 r en2 n i2 y i3 j ing1 z uei4 e4 t ao1 t ian1 l e5|I I B2 B2 I I B1 B1 I I I I B3 B3 B1 B1 I I B2 B2 I I B1 B1 B1 B1 I I B2 B2 I I I I I I I I I
+DUMMY2/009129.wav|x ve2 d ao4 ch eng2 ch u2 f a3 sh iii2 j iou4 h uei4 b ei4 j iou2 j iou3 ch eng2 f a2 b iao3|I I B2 B2 I I I I I I B3 B3 I I I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/008415.wav|d an4 b ian4 f ang1 zh iii3 ch u1 zh e4 b a3 d ao1 t ai4 d a4 b u4 f u2 h e2 y v4 h ai4 zh e3 h ou2 l ong5 sh ang4 zh iii4 m ing4 sh ang1 d e5 x ing2 zh uang4|B1 B1 I I B1 B1 I I B3 B3 I I I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I B1 B1 I I I I B2 B2 I I I I I I B1 B1 I I I I
+DUMMY2/004516.wav|n iou2 j in1 g uang2 ch ang3 sh ang4 d e5 m u4 m a2 b ai3 sh e4 y i3 z ao1 r en2 z ong4 h uo3|I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/004916.wav|zh e4 sh iii4 z ii4 y i1 j iou3 q i1 s an1 n ian2 l ai2 n v3 w uang2 sh ou3 c ii4 q ve1 x i2 g ai1 h uei4 y i4|I I B2 B2 B1 B1 I I I I I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 B1 B1 I I I I
+DUMMY2/007813.wav|h ou4 l ai2 l ong2 y iao2 n a4 g e5 sh iii4 ch u1 l e5 y i3 h ou4 w uo3 b u4 f ang1 b ian4 z ai4 q v4|I I B2 B2 I I B1 B1 I I I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/005321.wav|ai4 w uei1 e2 rr y v3 q ian2 f u1 r eng2 sh iii4 p eng2 y iou5|I I I B1 B1 B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/006799.wav|x iao3 w uang2 j ve2 d e5 f u4 q in1 sh uo1 d e5 b u2 d uei4 r en4 w uei2 z ii4 j i3 b ei4 w u4 j ie3 l e5 x in1 l i3 b ie4 n iou5|I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 B1 B1 I I I I B3 B3 I I B1 B1 I I I I
+DUMMY2/005613.wav|f an4 y iong3 g en1 x iao3 x ve2 l iou4 n ian2 j i2 sh iii2 d ang1 sh iii2 j iang4 d e5 f u4 q in5 y in1 x in1 z ang4 b ing4 q v4 sh iii4|I I I I B2 B2 I I B1 B1 I I I I I I B3 B3 B1 B1 I I I I B1 B1 I I B3 B3 B1 B1 I I I I B1 B1 I I I I
+DUMMY2/004737.wav|c ii3 q ian2 t a1 y v4 d ao4 y i4 m ing2 n v2 z ii3 d uei4 f ang1 y v2 b en4 l i3 g uan4 j vn1 b ian4 j iang1 q i2 sh ou1 w uei2 l ao3 b an4|I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/000872.wav|y ing4 k ang2 x ia4 q v4 z ii1 j in1 l ian4 y ia1 l i4 t ai4 d a4 l e5|I I B1 B1 I I B3 B3 I I I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/002941.wav|y v2 sh iii4 j ing3 d i4 c ii4 g ei3 t a1 j iang1 j vn1 y in4 l ing4 q i2 g ong1 d a3 w u2 g uo2|I I B3 B3 I I B2 B2 I I I I B1 B1 I I I I B3 B3 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/002924.wav|x v2 m ou3 z ai4 sh iii2 sh iii1 f an4 z uei4 zh ong1 y in1 y i4 zh iii4 y i3 w uai4 y van2 y in1 e2 rr w uei4 n eng2 d e2 ch eng3 sh u3 f an4 z uei4 w uei4 s uei4|I I B2 B2 B1 B1 I I B1 B1 I I I I B3 B3 B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/000429.wav|j v4 sh uo1 y iou4 z ii5 p i2 ao2 t ang1 h e1 k e2 y i3 h ua4 t an2 zh iii3 k e2 y iou5|I I B2 B2 I I I I B1 B1 I I I B3 B3 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/002363.wav|j i1 j in1 w uen3 b u2 x iang4 g u3 p iao4 sh ang4 c uan4 x ia4 t iao4|I I I I B3 B3 I I B1 B1 I I B2 B2 I I I I I I I I
+DUMMY2/005315.wav|y i3 x ia4 w uei2 q i2 f ang3 t an2 zh ai1 l u4|I I B3 B3 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/003424.wav|sh iii1 g ong1 x ian4 ch ang3 sh a1 sh iii2 t u3 f ang1 d eng3 s an2 t i3 c ai2 l iao4 b i4 x v1 y ian2 m i4 zh e1 g ai4 d eng3|I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/001087.wav|w uang2 y iou2 h ao3 w uei4 d ao4 sh uo1 f an3 zh eng4 y ie3 m ei2 sh iii4 sh en1 q ing3 y i2 g e4 y iao2 zh e5 w uan2 b ei5|I I B2 B2 I I I I B1 B1 B3 B3 I I B2 B2 I I I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/000092.wav|l ou2 y i2 w uang3 h uan2 k ong1 l ong2 m u3 q i2 l in2 m ai2 m o4 j i3 ch uen1 q iou1|I I B1 B1 I I B2 B2 B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/004968.wav|z en3 m e5 ai4 n i3 d ou1 b u4 x ian2 d uo1|I I B1 B1 I B1 B1 I I B1 B1 I I I I
+DUMMY2/005444.wav|n i3 y i2 d ing4 sh iii4 n ong4 c uo4 l e5 b u2 sh iii4 w uo3 j iao4 d e5 w uai4 m ai4|B1 B1 I I I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I B1 B1 I I I I
+DUMMY2/001284.wav|m iao2 f an2 d e5 f u4 q in5 m iao2 j ian4 k e1 sh uo1 sh eng1 y i4 m a2 m a3 h u1 h u1 d an4 e4 b u4 zh ao2 w ua2 w ua5|I I I I B1 B1 I I B2 B2 I I I I I I B3 B3 I I B2 B2 I I I I I I B3 B3 B1 B1 I I I B1 B1 I I I I
+DUMMY2/006070.wav|m u4 q ian2 g ong1 s ii1 r en2 g ong1 ch eng2 b en3 g ong4 j i4 y ve1 y i4 b ai3 y i1 sh iii2 w uan4|I I B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 I I I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/002624.wav|w uei4 sh en2 m e5 b u4 n eng2 t i2 q ian2 y i4 l iang3 t ian1 h uo4 w u3 y i1 zh iii1 h ou4 y ia5|I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I B2 B2 B1 B1 I I B1 B1 I I I I I I
+DUMMY2/001424.wav|w uen2 zh ang1 f en1 x i1 g uan1 y van2 r e4 zh ong1 y v2 y ing4 j ing3 h uo2 d ong4 y iou3 q i2 w uei1 m iao4 y in1 an4 d e5 x in1 l i3 d ong4 y in1|I I B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I I B2 B2 I I B1 B1 I I I I
+DUMMY2/002992.wav|d ang1 r an2 an4 y iao1 q iou2 s ong4 t u3 t e4 ch an3 d e5 x ve2 sh eng1 k e3 sh iii4 d ang4 m ian2 y v2 ch u3 f a2|I I B3 B3 I I I B1 B1 B1 B1 I I I I I I B1 B1 I I B3 B3 B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/005482.wav|y iou3 zh iii1 q ing2 zh e3 t ou4 l u4 n v2 z ii3 q ing1 sh eng1 q ian2 y in2 j iou3 y i2 w uei2 g an3 q ing2 k uen4 r ao3 x van3 z e2 q ing1 sh eng1|B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/000527.wav|w uei4 sh a2 z ii5 y iao4 y vn1 y ia5|I I I I B1 B1 I I I I I I
+DUMMY2/003216.wav|zh e4 z a3 k an4 z a3 b u2 x iang4 g uang1 m ing2 zh eng4 d a4 n e5|B1 B1 I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/005279.wav|zh e4 x ie1 x iao3 z uo1 f ang5 q van2 b u4 sh iii4 q ian2 s ong4 c uen1 r en2 d a1 sh e4|I I B1 B1 I I I I B3 B3 I I I I B2 B2 B1 B1 I I I I B1 B1 I I I I
+DUMMY2/007450.wav|zh e4 sh iii2 m an3 zh ou1 g uo2 k uei2 l ei3 h uang2 d i4 p u3 y i2 y v4 g an3 d ao4 m o4 r iii4 j i2 j iang1 l ai2 l in2|I I B2 B2 I I I I B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 I I I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/000461.wav|g ai1 y i2 z eng4 w u2 f u4 j ia1 t iao2 j ian4|B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/003951.wav|l in2 z ou3 sh iii2 b o2 b o5 d ing1 zh u3 l e5 y iou4 d ing1 zh u3 l ou3 zh e5 ch uan2 w ua2 d e5 t ou2 m o1 l e5 y i2 b ian4 y iou4 y i2 b ian4|I I I I B3 B3 I I B2 B2 I I I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I I I B3 B3 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/000091.wav|y ie3 h uan1 y ing2 w uei4 sh eng1 m ian2 ch ang3 sh ang1 zh ao2 w uo3 d ai4 y ian2|B1 B1 I I B2 B2 I I I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/008702.wav|w uo3 b u4 n eng2 x i2 z ao3 o5|B1 B1 I I B1 B1 I I I I I
+DUMMY2/003429.wav|y vn4 c ang2 l e5 j in4 q ian1 g ong1 l i3 d e5 j i1 q ing2 y i4 sh iii2 p en1 y iong3 e2 rr ch u1|I I I I B2 B2 I I B1 B1 I I I I B1 B1 I I B3 B3 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/003007.wav|k ao3 sh eng1 y iou3 y ia1 l i4 zh uang4 y van5 y ie3 b u2 l i4 w uai4|I I B1 B1 I I I I B3 B3 I I B2 B2 B1 B1 I I I I I I
+DUMMY2/007935.wav|w uo3 y i2 x ia4 l eng4 l e5 x in1 x iang3 zh e4 y ing1 y v3 sh en2 m e5 sh iii2 h ou5 p u3 j i2 d ao4 l e5 zh e4 g e5 ch eng2 d u4 l e5|B1 B1 I I B1 B1 I I B3 B3 I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I I I I I
+DUMMY2/007127.wav|m ei3 c ii4 d ao4 m ei3 g uo2 d ou1 y iao4 q v4 l a1 s ii1 w uei2 j ia1 s ii1 d e5 d u2 ch ang3|I I B1 B1 B1 B1 I I B2 B2 I I I I B1 B1 I I B1 B1 I I I I I I B1 B1 I I I I
+DUMMY2/004374.wav|m en2 y iao4 sh iii4 g e5 n v3 d e5 f ei1 j i2 s ii3 b u4 k e3|I I B1 B1 I I B1 B1 I I B3 B3 B1 B1 I I B1 B1 I I I I
+DUMMY2/008790.wav|c ii3 w uai4 j i4 w uei3 q ve4 r en4 c ai4 b in1 d e5 e2 rr z ii5 y i3 j ia1 r u4 ao4 zh ou1 g uo2 j i2|I I B3 B3 I I B1 B1 I I B3 B3 I I I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I B1 B1 I I I I
+DUMMY2/006256.wav|t a1 z ii4 r an2 y ie3 j iou4 m ei2 y iou3 zh iii1 f u4 d ang1 ch u1 y ve1 d ing4 d e5 f u2 y iang3 f ei4 l e5|B1 B1 I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I B1 B1 I I I I B1 B1 I I I I I I I I
+DUMMY2/006538.wav|w uo3 m en5 w uan2 q van2 f an4 b u4 zh ao2 d uei4 t a1 b u4 y i1 b u4 r ao2|I I B1 B1 I I B1 B1 I I I I B2 B2 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/002429.wav|l ao3 x iong2 d e5 j ia1 z ai4 w uan4 zh ou1 y i2 g e5 p ian1 y van3 p in2 q iong2 d e5 x iao3 sh an1 c uen1|I I I I I I B3 B3 B1 B1 I I B1 B1 I I B2 B2 I I B2 B2 I I I I B1 B1 I I I I I I
+DUMMY2/003920.wav|sh en1 c ai2 ai2 x iao3 d e5 x iao3 l ang2 z ai3 d i4 y i1 c ii4 ch iii1 y iang2 n ai3 k e3 f ei4 l e5 j in4 rr|I I B1 B1 I I I B1 B1 I I I I B3 B3 I I I I B1 B1 I I I I B2 B2 B1 B1 I I I I I I I
+DUMMY2/008308.wav|y v2 x iong2 p ai1 p ai1 t a1 d e5 j ian1 sh uo1 x iang3 k ai1 y i4 d ian3 g uo4 l iang3 t ian1 j iou4 m ei2 sh iii4 l e5 h ong2 y ian2 h uo4 sh uei3|I I B2 B2 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I I I B1 B1 B1 B1 I I I I B3 B3 I I I I I I I I
+DUMMY2/001150.wav|m ei3 ch e1 s ii1 j i1 y iou3 g e4 f u4 k a3 m ei3 y ve4 y iong4 y iou2 d ou1 y iou3 j i4 l u4 y iong4 w uan2 sh en1 l ing3|I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I B2 B2 I I B1 B1 I I B3 B3 I I B1 B1 I I I I
+DUMMY2/001175.wav|y in2 h ang2 y i3 x ing2 ch eng2 l ing2 ch ao1 c uen2 d uei4 ch ang2 g eng2 z u3|I I B2 B2 I I I I B2 B2 I I B1 B1 I I B2 B2 I I I I I I
+DUMMY2/004966.wav|s an1 sh iii4 y iao4 k uang1 zh eng4 h ao3 f eng1 q i4|I I I I B2 B2 I I I I B1 B1 I I I I
+DUMMY2/005497.wav|h uang2 sh ang4 n in2 h ai2 j i4 d e5 d a4 m ing2 h u2 p an4 d e5 x ia4 y v3 h e2 m a5|I I B3 B3 I I B1 B1 I I B1 B1 I I I I I I I I B1 B1 I I I I I I I I
+DUMMY2/001401.wav|sh ang4 sh u4 y iao1 q iou2 y i3 w uei4 c ii3 c ii4 h uei4 y i4 m ai2 x ia4 f u2 b i3|I I B1 B1 I I B2 B2 I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
+DUMMY2/006863.wav|y in1 w uei4 y iou3 z ii1 j in1 b u3 t ie1 j ia1 sh ang4 y iou3 n ong2 y ie4 t uei1 g uang3 zh ao1 p ai2 t a1 m en5 z ii4 r en4 w uei2 zh an4 l e5 p ian2 y i5|I I B1 B1 B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004101.wav|g uo4 j i3 t ian1 w uei1 b o2 g eng1 x in1 j iou4 h uei4 h uei1 f u4 d e5|I I I I B2 B2 I I B1 B1 I I B2 B2 I I B1 B1 I I I I I I
+DUMMY2/002759.wav|w uan2 j v4 sh u1 b ao1 m u4 t ou5 sh a1 z ii5 y i3 j i2 h ai2 c ao3 h uen4 l uan4 d e5 ch an1 z a2 zh e5|I I B2 B2 I I B3 B3 I I B2 B2 I I B3 B3 I I B1 B1 I I B2 B2 I I I I B1 B1 I I I I I I
+DUMMY2/005324.wav|w u2 g ong1 n u4 q i4 h ou3 sh en4 zh iii4 sh an1 h e2 y iao2|I I B2 B2 I I I I B3 B3 I I B2 B2 I I I I I I
+DUMMY2/008640.wav|g uo2 m in2 h eng2 c ai4 x i1 h ong2 sh iii4 ch ao3 j i1 d an4|I I B1 B1 I I B3 B3 I I I I B1 B1 I I I I I I
+DUMMY2/004397.wav|k ai1 sh iii3 sh iii4 y i4 x ie1 x ve2 sh eng1 q i3 h ong4 s ii1 l an4 sh u1 b en3 sh iii4 j van4 w uang3 l ou2 x ia4 r eng1|I I B2 B2 B1 B1 I I B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B3 B3 I I B2 B2 B1 B1 I I B1 B1 I I
+DUMMY2/007679.wav|j in1 h ou4 g u4 g ong1 h ai2 j iang1 t ong1 g uo4 zh an2 l an2 d eng3 f ang1 sh iii4 r ang4 b u4 f en5 sh en1 g ong1 w uen2 w u4 y v3 y iou2 k e4 j ian4 m ian4|I I B3 B3 I I B2 B2 I I B1 B1 I I B1 B1 I I B1 B1 I I I I B3 B3 B1 B1 I I B1 B1 I I B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/003848.wav|l i3 x ian1 sh eng5 q v3 q ian2 sh iii2 y in2 h ang2 y ing2 y ie4 y van2 c eng2 t i2 x ing2 l i3 x ian1 sh eng5 y ian4 ch ao1 d an4 t a1 j v4 j ve2 l e5|I I I I B1 B1 I I I I B3 B3 I I B1 B1 I I I I B2 B2 B1 B1 I I B1 B1 I I I I B1 B1 I I B3 B3 I I B1 B1 I I I I I I
+DUMMY2/003029.wav|n a4 f eng1 g u2 l ao3 d e5 x in4 y ie3 f en4 r u2 h uang2 h e4 zh iii4 j in1 m ei2 y iou3 y i4 d ian3 h uei2 y in1|I I B2 B2 I I I I I I B2 B2 B1 B1 I I B1 B1 I I B3 B3 I I B1 B1 I I B1 B1 I I B1 B1 I I I I
+DUMMY2/004309.wav|s ii4 r en2 j vn1 f ou3 r en4 b ang1 b ian3 j ia1 x i3 q ian2|I I B2 B2 B1 B1 I I B2 B2 B1 B1 I I B1 B1 I I I I
+DUMMY2/002186.wav|s a4 d i2 s ii1 j iou4 sh iii4 zh ei4 y iang4 y i2 g e4 y in4 d u4 f u4 h ao2|I I I I B2 B2 I I B1 B1 I I B1 B1 I I B2 B2 I I B1 B1 I I I I
